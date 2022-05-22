@@ -1,0 +1,50 @@
+{
+    "news":
+    [
+        {
+            "title": "DEVOLVI IL 5 X 1000. SOSTIENI LA TUA RADIO!",
+            "message": "Nella tua dichiarazione dei redditi devolvi il 5 per 1000 all’Associazione di Promozione Sociale Elettrica, Codice Fiscale 97979690589.",
+            "contentUrl": "https://www.radioelettrica.it/news/devolvi-il-5-x-1000-sostieni-la-tua-radio",
+            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2021/05/5x1000-aps-elettrica-1024x716.jpeg",
+            "author": "Admin",
+            "category" : "News",
+            "postDate": "2022-03-22"
+        },
+        {
+            "title": "RADIOELETTRICA ORA È ANCHE SU TELEGRAM",
+            "message": "News, eventi, interviste, ospiti, concerti (speriamo presto), visite guidate, … Rimani aggiornato sulle attività di RadioElettrica, unisciti al canale Telegram: più siamo e meglio stiamo.",
+            "contentUrl": "https://www.radioelettrica.it/news/radioelettrica-ora-e-anche-su-telegram",
+            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/02/radioelettrica-telegram-1024x576.jpeg",
+            "author": "Admin",
+            "category" : "News",
+            "postDate": "2022-02-20"
+        },
+        {
+            "title": "DA OGGI RADIO ELETTRICA SI SENTE ANCORA MEGLIO",
+            "message": "Per noi la musica è importante, sia per la qualità artistica e sia per la qualità di riproduzione. Per questo da oggi…",
+            "contentUrl": "https://www.radioelettrica.it/news/da-oggi-radio-elettrica-si-sente-ancora-meglio",
+            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/01/radio-elettrica-mp3-256-kbps.jpeg",
+            "author": "Massimo Garofalo",
+            "category" : "News",
+            "postDate": "2022-01-19"
+        },
+        {
+            "title": "FRANK ZAPPA & THE MOTHERS: I CONCERTI AL FILLMORE EAST RIVIVONO IN UN COFANETTO DI 8 CD",
+            "message": "I leggendari concerti di Frank Zappa & The Mothers al Fillmore East nel 1971 rivivono in occasione del 50° anniversario con il box definitivo di 8 CD.",
+            "contentUrl": "https://www.radioelettrica.it/news/frank-zappa-the-mothers-i-concerti-al-fillmore-east-rivivono-in-un-cofanetto-di-8-cd",
+            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/01/ZAPPAFRANKthemothers1971cdBOXSETopen-1024x819.jpeg",
+            "author": "Press Voice",
+            "category" : "News",
+            "postDate": "2022-01-18"
+        },
+        {
+            "title": "DEPECHE MODE: 101 RIESCE IN HD (SIA VIDEO E SIA AUDIO)",
+            "message": "101, il rivoluzionario film documentario dei Depeche Mode e il concerto dal vivo saranno disponibili dal 3 dicembre in una nuovissima edizione HD aggiornata.",
+            "contentUrl": "https://www.radioelettrica.it/music/depeche-mode-101-riesce-in-hd-sia-video-e-sia-audio",
+            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2021/11/ristampa-hd-101-depeche-mode-1024x576.jpeg",
+            "author": "Press Voice",
+            "category" : "Music",
+            "postDate": "2021-11-03"
+        }
+    ]
+}

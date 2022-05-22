@@ -1,0 +1,56 @@
+{
+    "contacts": {
+        "group-0": [
+            {
+                "code": "FB",
+                "name": "Facebook",
+                "image": "logo_facebook",
+                "order": 1
+            },
+            {
+                "code": "INST",
+                "name": "Instagram",
+                "image": "logo_instagram",
+                "order": 10
+            },
+            {
+                "code": "TELEGRAM",
+                "name": "Telegram",
+                "image": "logo_telegram",
+                "order": 20
+            },
+            {
+                "code": "WA",
+                "name": "WhatsApp",
+                "image": "logo_whatsapp",
+                "order": 30
+            },
+            {
+                "code": "SHOP",
+                "name": "Negozio",
+                "image": "logo_shop",
+                "order": 40
+            }
+        ],
+        "group-1": [
+            {
+                 "code": "GIFT",
+                 "name": "Donazione",
+                 "image": "logo_gift",
+                 "order": 1
+             },
+             {
+                 "code": "WHO",
+                 "name": "Chi siamo",
+                 "image": "logo_radio",
+                 "order": 10
+             },
+             {
+                 "code": "WEB",
+                 "name": "Sito web",
+                 "image": "logo_web",
+                 "order": 20
+             }
+        ]
+    }
+}

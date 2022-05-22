@@ -1,0 +1,895 @@
+{
+    "station": {
+        "name": "Radio Elettrica",
+        "streamURL": "http://nr8.newradio.it:9562/stream",
+        "imageURL": "logo",
+        "desc": "Radio Elettrica",
+        "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome è Radio Elettrica."
+    },
+    "planning": {
+        "1": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "08:59",
+                "imageURL": "replay",
+                "weekday": 1
+            },
+            {
+                "name": "Morning Shower",
+                "speaker": "CLAUDIA MCDOWELL",
+                "startTime": "09:00",
+                "endTime": "11:59",
+                "imageURL": "claudiamcdowell",
+                "weekday": 1
+            },
+            {
+                "name": "The Summer of Love",
+                "speaker": "MARCO CAVALIERI",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "marco-cavalieri",
+                "weekday": 1
+            },
+            {
+                "name": "Non so rispondere",
+                "speaker": "JONATHAN GIUSTINI",
+                "startTime": "15:00",
+                "endTime": "17:59",
+                "imageURL": "jonathan-giustini",
+                "weekday": 1
+            },
+            {
+                "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+                "speaker": "FRANCESCO DI GIUGNO",
+                "startTime": "18:00",
+                "endTime": "20:59",
+                "imageURL": "francesco-di-giugno",
+                "weekday": 1
+            },
+            {
+                "name": "Absolutely Free",
+                "speaker": "DAVID NERATTINI",
+                "startTime": "21:00",
+                "endTime": "23:59",
+                "imageURL": "david-nerattini",
+                "weekday": 1
+            }
+        ],
+        "2": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "08:59",
+                "imageURL": "replay",
+                "weekday": 2
+            },
+            {
+                "name": "Letture Metropolitane",
+                "speaker": "GIOVANNI VILLANI & FLAVIA CAPONE",
+                "startTime": "09:00",
+                "endTime": "11:59",
+                "imageURL": "letture-metropolitane",
+                "weekday": 2
+            },
+            {
+                "name": "Allenamento al Buonumore",
+                "speaker": "AGNESE VALLE",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "agnese-valle",
+                "weekday": 2
+            },
+            {
+                "name": "Dark Entries (E Uscite Di Sicurezza)",
+                "speaker": "ELISABETTA LAURINI",
+                "startTime": "15:00",
+                "endTime": "17:59",
+                "imageURL": "elisabetta-laurini",
+                "weekday": 2
+            },
+            {
+                "name": "It’s NOT Only Rock ‘n Roll – Reloaded",
+                "speaker": "ANNARELLA",
+                "startTime": "18:00",
+                "endTime": "20:59",
+                "imageURL": "annarella",
+                "weekday": 2
+            },
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "21:00",
+                "endTime": "23:59",
+                "imageURL": "replay",
+                "weekday": 2
+            }
+        ],
+        "3": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "08:59",
+                "imageURL": "replay",
+                "weekday": 3
+            },
+            {
+                "name": "Giramondo",
+                "speaker": "MARTA SQUICCIARINI",
+                "startTime": "09:00",
+                "endTime": "10:29",
+                "imageURL": "marta-squicciarini",
+                "weekday": 3
+            },
+            {
+                "name": "You Are What You Listen To",
+                "speaker": "MAURA CENCIARELLI",
+                "startTime": "10:30",
+                "endTime": "11:59",
+                "imageURL": "maura-cenciarelli",
+                "weekday": 3
+            },
+            {
+                "name": "Wanderlust",
+                "speaker": "JIMBO",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "jimbo",
+                "weekday": 3
+            },
+            {
+                "name": "Il Cantastorie",
+                "speaker": "GIANPAOLO CASTALDO",
+                "startTime": "15:00",
+                "endTime": "17:59",
+                "imageURL": "gianpaolo-castaldo",
+                "weekday": 3
+            },
+            {
+                "name": "Prince Faster Magazine",
+                "speaker": "PRINCE FASTER",
+                "startTime": "18:00",
+                "endTime": "20:59",
+                "imageURL": "prince-faster",
+                "weekday": 3
+            },
+            {
+                "name": "Trend Topics",
+                "speaker": "MASSIMO GAROFALO",
+                "startTime": "21:00",
+                "endTime": "22:59",
+                "imageURL": "massimo-garofalo",
+                "weekday": 3
+            },
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "23:00",
+                "endTime": "23:59",
+                "imageURL": "replay",
+                "weekday": 3
+            }
+        ],
+        "4": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "08:59",
+                "imageURL": "replay",
+                "weekday": 4
+            },
+            {
+                "name": "You Are What You Listen To",
+                "speaker": "MAURA CENCIARELLI",
+                "startTime": "09:00",
+                "endTime": "11:59",
+                "imageURL": "maura-cenciarelli",
+                "weekday": 4
+            },
+            {
+                "name": "Grazie per l’immenso contributo nel corso di queste ore",
+                "speaker": "GUSTAVO TAGLIAFERRI",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "gustavo-tagliaferri",
+                "weekday": 4
+            },
+            {
+                "name": "Il Giardino delle Delizie",
+                "speaker": "ROSSELLA ESSE",
+                "startTime": "15:00",
+                "endTime": "17:59",
+                "imageURL": "rossella-esse",
+                "weekday": 4
+            },
+            {
+                "name": "A Ruota Libera",
+                "speaker": "GIANLUCA MANCINI",
+                "startTime": "18:00",
+                "endTime": "20:59",
+                "imageURL": "gianluca-mancini",
+                "weekday": 4
+            },
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "21:00",
+                "endTime": "23:59",
+                "imageURL": "replay",
+                "weekday": 4
+            }
+        ],
+        "5": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "06:59",
+                "imageURL": "replay",
+                "weekday": 5
+            },
+            {
+                "name": "Wanderlust",
+                "speaker": "JIMBO",
+                "startTime": "07:00",
+                "endTime": "08:59",
+                "imageURL": "jimbo",
+                "weekday": 5
+            },
+            {
+                "name": "Caffè sospeso",
+                "speaker": "GIAMPIERO WALLNOFER",
+                "startTime": "09:00",
+                "endTime": "11:59",
+                "imageURL": "giampiero-wallnofer",
+                "weekday": 5
+            },
+            {
+                "name": "The Summer of Love",
+                "speaker": "MARCO CAVALIERI",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "marco-cavalieri",
+                "weekday": 5
+            },
+            {
+                "name": "Dark Entries (E Uscite Di Sicurezza)",
+                "speaker": "ELISABETTA LAURINI",
+                "startTime": "15:00",
+                "endTime": "17:59",
+                "imageURL": "elisabetta-laurini",
+                "weekday": 5
+            },
+            {
+                "name": "Prince Faster Magazine",
+                "speaker": "PRINCE FASTER",
+                "startTime": "18:00",
+                "endTime": "20:59",
+                "imageURL": "prince-faster",
+                "weekday": 5
+            },
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "21:00",
+                "endTime": "23:59",
+                "imageURL": "replay",
+                "weekday": 5
+            }
+        ],
+        "6": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "08:59",
+                "imageURL": "replay",
+                "weekday": 6
+            },
+            {
+                "name": "Sabato Eclettico / Sabato Elettrico",
+                "speaker": "LUIGI ARIEMMA",
+                "startTime": "09:00",
+                "endTime": "11:59",
+                "imageURL": "luigi-ariemma",
+                "weekday": 6
+            },
+            {
+                "name": "Born to Run",
+                "speaker": "FEDERICA BAGLIONI",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "federica-baglioni",
+                "weekday": 6
+            },
+            {
+                "name": "Magu e l’ombra del vecchio",
+                "speaker": "MARIO TAGLIAFERRI",
+                "startTime": "15:00",
+                "endTime": "17:59",
+                "imageURL": "mario-tagliaferri",
+                "weekday": 6
+            },
+            {
+                "name": "Radiospritz",
+                "speaker": "FLORIANA TORPEDINE",
+                "startTime": "18:00",
+                "endTime": "18:59",
+                "imageURL": "floriana-torpedine",
+                "weekday": 6
+            },
+            {
+                "name": "Play it Louder",
+                "speaker": "SIMONE DE LAURA",
+                "startTime": "19:00",
+                "endTime": "20:59",
+                "imageURL": "simone-de-laura",
+                "weekday": 6
+            },
+            {
+                "name": "Jazztrain",
+                "speaker": "FRANCESCO SCIARRETTA",
+                "startTime": "21:00",
+                "endTime": "21:59",
+                "imageURL": "francesco-sciarretta",
+                "weekday": 6
+            },
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "22:00",
+                "endTime": "23:59",
+                "imageURL": "replay",
+                "weekday": 6
+            }
+        ],
+        "7": [
+            {
+                "name": "Replay",
+                "speaker": "RADIO ELETTRICA",
+                "startTime": "00:01",
+                "endTime": "07:59",
+                "imageURL": "replay",
+                "weekday": 7
+            },
+            {
+                "name": "Play it Louder",
+                "speaker": "SIMONE DE LAURA",
+                "startTime": "08:00",
+                "endTime": "11:59",
+                "imageURL": "simone-de-laura",
+                "weekday": 7
+            },
+            {
+                "name": "Isterika",
+                "speaker": "SIRA F. DE VANNA",
+                "startTime": "12:00",
+                "endTime": "14:59",
+                "imageURL": "sira-f-de-vanna",
+                "weekday": 7
+            },
+            {
+                "name": "G Pills – Anche Le Formiche Pizzicano…",
+                "speaker": "GRETA PANETTIERI E FIORENZA GHERARDI DE CANDEI",
+                "startTime": "15:00",
+                "endTime": "16:59",
+                "imageURL": "gpills",
+                "weekday": 7
+            },
+            {
+                "name": "Jazztrain",
+                "speaker": "FRANCESCO SCIARRETTA",
+                "startTime": "17:00",
+                "endTime": "17:59",
+                "imageURL": "jazztrain",
+                "weekday": 7
+            },
+            {
+                "name": "Oltre il giardino",
+                "speaker": "MARCO DEL VECCHIO",
+                "startTime": "18:00",
+                "endTime": "19:59",
+                "imageURL": "marco-del-vecchio",
+                "weekday": 7
+            },
+            {
+                "name": "Manhole",
+                "speaker": "UBIK",
+                "startTime": "20:00",
+                "endTime": "21:59",
+                "imageURL": "ubik",
+                "weekday": 7
+            },
+            {
+                "name": "Emotional Waves",
+                "speaker": "MOONCHILD",
+                "startTime": "22:00",
+                "endTime": "23:59",
+                "imageURL": "the-moonchild",
+                "weekday": 7
+            }
+        ]
+    },
+    "shows" : [
+        {
+            "name": "Born to Run",
+            "speaker": "FEDERICA BAGLIONI",
+            "imageURL": "federica-baglioni",
+            "contentURL": "https://www.radioelettrica.it/shows/federica-baglioni-born-to-run"
+        },
+        {
+            "name": "G Pills – Anche Le Formiche Pizzicano…",
+            "speaker": "GRETA PANETTIERI E FIORENZA GHERARDI DE CANDEI",
+            "imageURL": "gpills",
+            "contentURL": "https://www.radioelettrica.it/shows/g-pills-con-greta-panettieri-e-fiorenza-gherardi-de-candei"
+        },
+        {
+            "name": "A Ruota Libera",
+            "speaker": "GIANLUCA MANCINI",
+            "imageURL": "a-ruota-libera",
+            "contentURL": "https://www.radioelettrica.it/shows/gianluca-mancini/"
+        },
+        {
+            "name": "Non so rispondere",
+            "speaker": "JONATHAN GIUSTINI",
+            "imageURL": "non-so-rispondere",
+            "contentURL": "https://www.radioelettrica.it/shows/jonathan-giustini-non-so-rispondere/"
+        },
+        {
+            "name": "Wanderlust",
+            "speaker": "JIMBO",
+            "imageURL": "jimbo",
+            "contentURL": "https://www.radioelettrica.it/shows/jimbo-wandelust/"
+        },
+        {
+            "name": "Show a sorpresa",
+            "speaker": "Show a sorpresa",
+            "imageURL": "show_a_sorpresa",
+            "contentURL": "https://www.radioelettrica.it/shows/show-a-sorpresa/"
+        },
+        {
+            "name": "Il Giardino delle Delizie",
+            "speaker": "ROSSELLA ESSE",
+            "imageURL": "rossella-esse",
+            "contentURL": "https://www.radioelettrica.it/shows/rossella-esse-il-giardino-delle-delizie/"
+        },
+        {
+            "name": "Radiospritz",
+            "speaker": "FLORIANA TORPEDINE",
+            "imageURL": "radio-spritz",
+            "contentURL": "https://www.radioelettrica.it/shows/floriana-torpedine-radiospritz/"
+        },
+        {
+            "name": "Sabato Eclettico / Sabato Elettrico",
+            "speaker": "LUIGI ARIEMMA",
+            "imageURL": "luigi-ariemma",
+            "contentURL": "https://www.radioelettrica.it/shows/luigi-ariemma-sabato-eclettico-sabato-elettrico/"
+        },
+        {
+            "name": "Allenamento al Buonumore",
+            "speaker": "AGNESE VALLE",
+            "imageURL": "agnese-valle",
+            "contentURL": "https://www.radioelettrica.it/shows/agnese-valle-allenamento-al-buonumore/"
+        },
+        {
+            "name": "Caffè sospeso",
+            "speaker": "GIAMPIERO WALLNOFER",
+            "imageURL": "giampiero-wallnofer",
+            "contentURL": "https://www.radioelettrica.it/shows/caffe-sospeso-giampiero-wallnofer/"
+        },
+        {
+            "name": "Il Cantastorie",
+            "speaker": "GIANPAOLO CASTALDO",
+            "imageURL": "gianpaolo-castaldo",
+            "contentURL": "https://www.radioelettrica.it/shows/il-cantastorie-gianpaolo-castaldo/"
+        },
+        {
+            "name": "Elettrica in, l'altra Domenica di Radio Elettrica",
+            "speaker": "ALEX SABETTI & CLAUDIO VIETNAM",
+            "imageURL": "elettrica-in",
+            "contentURL": "https://www.radioelettrica.it/shows/sabetti-claudio-vietnam-elettrica-in/"
+        },
+        {
+            "name": "Note vocali: una trasmissione in ascolto. E in evoluzione -",
+            "speaker": "TIZIANA SCALABRIN",
+            "imageURL": "tiziana-scalabrin",
+            "contentURL": "https://www.radioelettrica.it/shows/note-vocali-una-trasmissione-in-ascolto-e-in-evoluzione-tiziana-scalabrin/"
+        },
+        {
+            "name": "Emotional waves",
+            "speaker": "MOONCHILD",
+            "imageURL": "the-moonchild",
+            "contentURL": "https://www.radioelettrica.it/shows/moonchild-emotional-waves/"
+        },
+        {
+            "name": "Manhole",
+            "speaker": "UBIK",
+            "imageURL": "ubik",
+            "contentURL": "https://www.radioelettrica.it/shows/il-cantastorie-gianpaolo-castaldo/"
+        },
+        {
+            "name": "Festival",
+            "speaker": "M. GAROFALO & F. DI GIUGNO",
+            "imageURL": "festival",
+            "contentURL": "https://www.radioelettrica.it/shows/massimo-garofalo-francesco-di-giugno-festival/"
+        },
+        {
+            "name": "Grazie per l'immenso contributo nel corso di queste ore",
+            "speaker": "GUSTAVO TAGLIAFERRI",
+            "imageURL": "gustavo-tagliaferri",
+            "contentURL": "https://www.radioelettrica.it/shows/grazie-per-limmenso-contributo-nel-corso-di-queste-ore-gustavo-tagliaferri/"
+        },
+        {
+            "name": "Isterika",
+            "speaker": "SIRA F. DE VANNA",
+            "imageURL": "sira-f-de-vanna",
+            "contentURL": "https://www.radioelettrica.it/shows/isterika-sira-f-de-vanna/"
+        },
+        {
+            "name": "Oltre il giardino",
+            "speaker": "MARCO DEL VECCHIO",
+            "imageURL": "marco-del-vecchio",
+            "contentURL": "https://www.radioelettrica.it/shows/oltre-il-giardino-marco-del-vecchio/"
+        },
+        {
+            "name": "Play it louder",
+            "speaker": "SIMONE DE LAURA",
+            "imageURL": "simone-de-laura",
+            "contentURL": "https://www.radioelettrica.it/shows/play-it-louder-simone-de-laura/"
+        },
+        {
+            "name": "Absolutely free",
+            "speaker": "DAVID NERATTINI",
+            "imageURL": "david-nerattini",
+            "contentURL": "https://www.radioelettrica.it/shows/absolutely-free-david-nerattini/"
+        },
+        {
+            "name": "Hey driver, cool down the horses!",
+            "speaker": "DANIELE VOTTA E FABRIZIO MONTINI TROTTI",
+            "imageURL": "drivers",
+            "contentURL": "https://www.radioelettrica.it/shows/drivers-daniele-votta-e-fabrizio-montini-trotti/"
+        },
+        {
+            "name": "Giramondo",
+            "speaker": "MARTA SQUICCIARINI",
+            "imageURL": "marta-squicciarini",
+            "contentURL": "https://www.radioelettrica.it/shows/giramondo-marta-squicciarini/"
+        },
+        {
+            "name": "Trend topics",
+            "speaker": "MASSIMO GAROFALO",
+            "imageURL": "massimo-garofalo",
+            "contentURL": "https://www.radioelettrica.it/shows/trend-topics-massimo-garofalo/"
+        },
+        {
+            "name": "Pantera rosa",
+            "speaker": "CECILIA SCOUGALL",
+            "imageURL": "cecilia-scougall",
+            "contentURL": "https://www.radioelettrica.it/shows/pantera-rosa-cecilia-scougall/"
+        },
+        {
+            "name": "Ovver la musica italiana e i suoi dintorni",
+            "speaker": "JONATHAN GIUSTINI",
+            "imageURL": "jonathan-giustini",
+            "contentURL": "https://www.radioelettrica.it/shows/bufalo-bill-jonathan-giustini/"
+        },
+        {
+            "name": "Jazz e oltre",
+            "speaker": "FRANCESCO SCIARRETTA",
+            "imageURL": "francesco-sciarretta",
+            "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
+        },
+        {
+            "name": "La migliore musica di tutti i tempi...",
+            "speaker": "RADIO ELETTRICA",
+            "imageURL": "replay",
+            "contentURL": "https://www.radioelettrica.it/shows/radio-elettrica-replay/"
+        },
+        {
+            "name": "Musica, attualità e divagazioni",
+            "speaker": "VIETNAM & MARQUEZ",
+            "imageURL": "radio-kalashnikov",
+            "contentURL": "https://www.radioelettrica.it/shows/radio-kalashnikov-vietnam-marquez/"
+        },
+        {
+            "name": "Musica di oggi, di ieri e di domani",
+            "speaker": "MARIO TAGLIAFERRI",
+            "imageURL": "francesco-di-giugno",
+            "contentURL": "https://www.radioelettrica.it/shows/walkman-francesco-di-giugno/"
+        },
+        {
+            "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+            "speaker": "FRANCESCO DI GIUGNO",
+            "imageURL": "francesco-di-giugno",
+            "contentURL": "https://www.radioelettrica.it/shows/walkman-francesco-di-giugno/"
+        },
+        {
+            "name": "Bit, beats & sculture sonore",
+            "speaker": "FRANCESCO DI GIUGNO & MASSIMO GAROFALO",
+            "imageURL": "bit-and-beats",
+            "contentURL": "https://www.radioelettrica.it/shows/francesco-di-giugno-massimo-garofalo/"
+        },
+        {
+            "name": "The summero of love",
+            "speaker": "MARCO CAVALIERI",
+            "imageURL": "marco-cavalieri",
+            "contentURL": "https://www.radioelettrica.it/shows/the-summer-of-love-marco-cavalieri/"
+        },
+        {
+            "name": "Uno sguardo sui libri, cinema e serie tv",
+            "speaker": "GIOVANNI VILLANI & FLAVIA CAPONE",
+            "imageURL": "letture-metropolitane",
+            "contentURL": "https://www.radioelettrica.it/shows/letture-metropolitane-flavia-capone-giovanni-villani/"
+        },
+        {
+            "name": "Musica oscura per anime in transito",
+            "speaker": "ELISABETTA LAURINI",
+            "imageURL": "elisabetta-laurini",
+            "contentURL": "https://www.radioelettrica.it/shows/dark-entries-elisabetta-laurini/"
+        },
+        {
+            "name": "Vivere la musica a tutto tondo: dall'analisi dei testi, alla storia del rock",
+            "speaker": "CLAUDIA MCDOWELL",
+            "imageURL": "claudiamcdowell",
+            "contentURL": "https://www.radioelettrica.it/shows/morning-shower-claudia-mcdowell/"
+        },
+        {
+            "name": "Morning shower: per scoprire insieme nuova musica",
+            "speaker": "ANNARELLA",
+            "imageURL": "annarella",
+            "contentURL": "https://www.radioelettrica.it/shows/annarella-it-s-not-only-rock-n-roll/"
+        },
+        {
+            "name": "Roots and roll",
+            "speaker": "GIANPAOLO CASTALDO",
+            "imageURL": "gianpaolo-castaldo",
+            "contentURL": "https://www.radioelettrica.it/shows/gianpaolo-castaldo-roots-and-roll/"
+        },
+        {
+            "name": "You are what you listen to",
+            "speaker": "MAURA CENCIARELLI",
+            "imageURL": "maura-cenciarelli",
+            "contentURL": "https://www.radioelettrica.it/shows/maura-cenciarelli-you-are-what-you-listen-to/"
+        },
+        {
+            "name": "Prince faster magazine",
+            "speaker": "PRINCE FASTER",
+            "imageURL": "prince-faster",
+            "contentURL": "https://www.radioelettrica.it/shows/prince-faster-magazine/"
+        }
+    ],
+    "speakers" : [
+        {
+            "name": "Greta Panettieri",
+            "desc" : "Cantante, compositrice, autrice e ricercatrice in ambito musicale",
+            "imageURL": "gpills"
+        },
+        {
+            "name": "Prince Faster",
+            "desc" : "Si auto-definisce un semplice appassionato di musica e di radio, un hobbysta del microfono.",
+            "imageURL": "prince-faster"
+        },
+        {
+            "name": "Gianpaolo Castaldo",
+            "desc" : "",
+            "imageURL": "gianpaolo-castaldo"
+        },
+        {
+            "name": "Maura Cenciarelli",
+            "desc" : "",
+            "imageURL": "maura-cenciarelli"
+        },
+        {
+            "name": "Elisabetta Laurini",
+            "desc" : "",
+            "imageURL": "elisabetta-laurini"
+        },
+        {
+            "name": "Claudia Mcdowell",
+            "desc" : "",
+            "imageURL": "claudiamcdowell"
+        },
+        {
+            "name": "Marco Cavalieri",
+            "desc" : "",
+            "imageURL": "marco-cavalieri"
+        },
+        {
+            "name": "Vietnam & Marquez",
+            "desc" : "",
+            "imageURL": "alex-sabetti"
+        },
+        {
+            "name": "Annarella",
+            "desc" : "",
+            "imageURL": "annarella"
+        },
+        {
+            "name": "Francesco Di Giugno",
+            "desc" : "",
+            "imageURL": "francesco-di-giugno"
+        },
+        {
+            "name": "Massimo Garofalo",
+            "desc" : "",
+            "imageURL": "massimo-garofalo"
+        },
+        {
+            "name": "Luigi Ariemma",
+            "desc" : "",
+            "imageURL": "luigi-ariemma"
+        },
+        {
+            "name": "Francesco Sciarretta",
+            "desc" : "",
+            "imageURL": "francesco-sciarretta"
+        },
+        {
+            "name": "Alessandro Corigliano",
+            "desc" : "",
+            "imageURL": "alessandro-corigliano"
+        },
+        {
+            "name": "Flavia Capone",
+            "desc" : "",
+            "imageURL": "flavia-capone"
+        },
+        {
+            "name": "Giovanni Villani",
+            "desc" : "",
+            "imageURL": "giovanni-villani"
+        },
+        {
+            "name": "Gabriele Niola",
+            "desc" : "",
+            "imageURL": "gabriele-niola"
+        },
+        {
+            "name": "Sara K",
+            "desc" : "",
+            "imageURL": "sara-k"
+        },
+        {
+            "name": "Sara F. De Vanna",
+            "desc" : "",
+            "imageURL": "sira-f-de-vanna"
+        },
+        {
+            "name": "Jonathan Giustini",
+            "desc" : "",
+            "imageURL": "jonathan-giustini"
+        },
+        {
+            "name": "Cecilia Scougall",
+            "desc" : "",
+            "imageURL": "cecilia-scougall"
+        },
+        {
+            "name": "Speaker a sorpresa",
+            "desc" : "",
+            "imageURL": "speaker_a_sorpresa"
+        },
+        {
+            "name": "Rossella Esse",
+            "desc" : "",
+            "imageURL": "rossella-esse"
+        },
+        {
+            "name": "Jimbo",
+            "desc" : "",
+            "imageURL": "jimbo"
+        },
+        {
+            "name": "David Nerattini",
+            "desc" : "",
+            "imageURL": "david-nerattini"
+        },
+        {
+            "name": "Marta Squicciarini",
+            "desc" : "",
+            "imageURL": "marta-squicciarini"
+        },
+        {
+            "name": "Marco Del Vecchio",
+            "desc" : "",
+            "imageURL": "marco-del-vecchio"
+        },
+        {
+            "name": "Nicola Vicidomini",
+            "desc" : "",
+            "imageURL": "nicola-vicidomini"
+        },
+        {
+            "name": "Alex Sabetti",
+            "desc" : "",
+            "imageURL": "alex-sabetti"
+        },
+        {
+            "name": "Tiziana Scalabrin",
+            "desc" : "",
+            "imageURL": "tiziana-scalabrin"
+        },
+        {
+            "name": "The Moonchild",
+            "desc" : "",
+            "imageURL": "the-moonchild"
+        },
+        {
+            "name": "Ubik",
+            "desc" : "",
+            "imageURL": "ubik"
+        },
+        {
+            "name": "Giampiero Wallnofer",
+            "desc" : "",
+            "imageURL": "giampiero-wallnofer"
+        },
+        {
+            "name": "Agnese Valle",
+            "desc" : "",
+            "imageURL": "agnese-valle"
+        },
+        {
+            "name": "Mario Tagliaferri",
+            "desc" : "",
+            "imageURL": "mario-tagliaferri"
+        },
+        {
+            "name": "Simone Rock",
+            "desc" : "",
+            "imageURL": "simone-de-laura"
+        },
+        {
+            "name": "Floriana Torpedine",
+            "desc" : "",
+            "imageURL": "floriana-torpedine"
+        },
+        {
+            "name": "Gustavo Tagliaferri",
+            "desc" : "",
+            "imageURL": "gustavo-tagliaferri"
+        },
+        {
+            "name": "Gianluca Mancini",
+            "desc" : "",
+            "imageURL": "gianluca-mancini"
+        },
+        {
+            "name": "Federica Baglioni",
+            "desc" : "",
+            "imageURL": "federica-baglioni"
+        }
+        
+    ],
+    "shopItems" : [
+        {
+            "name": "Abbigliamento",
+            "localizedKey": "home_shop_clothing",
+            "imageURL" : "clothing",
+            "contentURL": "https://www.radioelettrica.it/categoria-prodotto/abbigliamento"
+        },
+        {
+            "name": "Accessori",
+            "localizedKey": "home_shop_accessories",
+            "imageURL" : "accessories",
+            "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
+        },
+        {
+            "name": "Arte e cultura",
+            "localizedKey": "home_shop_art_culture",
+            "imageURL" : "art_culture",
+            "contentURL": "https://www.radioelettrica.it/categoria-prodotto/arte-e-cultura"
+        },
+        {
+            "name": "Linea disturbiart",
+            "localizedKey": "home_shop_disturbiart",
+            "imageURL" : "disturbiart",
+            "contentURL": "https://www.radioelettrica.it/categoria-prodotto/disturbiart"
+        }
+    ]
+    
+}
