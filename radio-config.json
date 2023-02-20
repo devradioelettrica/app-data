@@ -671,7 +671,8 @@
         {
             "name": "Prince Faster",
             "desc" : "Si auto-definisce un semplice appassionato di musica e di radio, un hobbysta del microfono.",
-            "imageURL": "prince_faster"
+            "imageURL": "prince_faster",
+            "contentURL": "https://www.radioelettrica.it/members/prince-faster"
         },
         {
             "name": "Gianpaolo Castaldo",
