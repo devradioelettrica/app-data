@@ -1,50 +1,40 @@
 {
-    "news":
-    [
-        {
-            "title": "DEVOLVI IL 5 X 1000. SOSTIENI LA TUA RADIO!",
-            "message": "Nella tua dichiarazione dei redditi devolvi il 5 per 1000 all’Associazione di Promozione Sociale Elettrica, Codice Fiscale 97979690589.",
-            "contentUrl": "https://www.radioelettrica.it/news/devolvi-il-5-x-1000-sostieni-la-tua-radio",
-            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2021/05/5x1000-aps-elettrica-1024x716.jpeg",
-            "author": "Admin",
-            "category" : "News",
-            "postDate": "2022-03-22"
-        },
-        {
-            "title": "RADIOELETTRICA ORA È ANCHE SU TELEGRAM",
-            "message": "News, eventi, interviste, ospiti, concerti (speriamo presto), visite guidate, … Rimani aggiornato sulle attività di RadioElettrica, unisciti al canale Telegram: più siamo e meglio stiamo.",
-            "contentUrl": "https://www.radioelettrica.it/news/radioelettrica-ora-e-anche-su-telegram",
-            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/02/radioelettrica-telegram-1024x576.jpeg",
-            "author": "Admin",
-            "category" : "News",
-            "postDate": "2022-02-20"
-        },
-        {
-            "title": "DA OGGI RADIO ELETTRICA SI SENTE ANCORA MEGLIO",
-            "message": "Per noi la musica è importante, sia per la qualità artistica e sia per la qualità di riproduzione. Per questo da oggi…",
-            "contentUrl": "https://www.radioelettrica.it/news/da-oggi-radio-elettrica-si-sente-ancora-meglio",
-            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/01/radio-elettrica-mp3-256-kbps.jpeg",
-            "author": "Massimo Garofalo",
-            "category" : "News",
-            "postDate": "2022-01-19"
-        },
-        {
-            "title": "FRANK ZAPPA & THE MOTHERS: I CONCERTI AL FILLMORE EAST RIVIVONO IN UN COFANETTO DI 8 CD",
-            "message": "I leggendari concerti di Frank Zappa & The Mothers al Fillmore East nel 1971 rivivono in occasione del 50° anniversario con il box definitivo di 8 CD.",
-            "contentUrl": "https://www.radioelettrica.it/news/frank-zappa-the-mothers-i-concerti-al-fillmore-east-rivivono-in-un-cofanetto-di-8-cd",
-            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/01/ZAPPAFRANKthemothers1971cdBOXSETopen-1024x819.jpeg",
-            "author": "Press Voice",
-            "category" : "News",
-            "postDate": "2022-01-18"
-        },
-        {
-            "title": "DEPECHE MODE: 101 RIESCE IN HD (SIA VIDEO E SIA AUDIO)",
-            "message": "101, il rivoluzionario film documentario dei Depeche Mode e il concerto dal vivo saranno disponibili dal 3 dicembre in una nuovissima edizione HD aggiornata.",
-            "contentUrl": "https://www.radioelettrica.it/music/depeche-mode-101-riesce-in-hd-sia-video-e-sia-audio",
-            "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2021/11/ristampa-hd-101-depeche-mode-1024x576.jpeg",
-            "author": "Press Voice",
-            "category" : "Music",
-            "postDate": "2021-11-03"
-        }
-    ]
+  "news": [
+    {
+      "title": "ELETTRICA’S HIGHLIGHTS (FEBBRAIO 2023)",
+      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di febbraio 2023 Indaco – Kalì (Claudia McDowell) Van Morrison […]",
+      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-febbraio-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
+      "author": "Admin",
+      "category": "News",
+      "postDate": "2023-02-01"
+    },
+    {
+      "title": "ELETTRICA’S HIGHLIGHTS (GENNAIO 2023)",
+      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
+      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-gennaio-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
+      "author": "Admin",
+      "category": "News",
+      "postDate": "2023-01-01"
+    },
+    {
+      "title": "ELETTRICA’S HIGHLIGHTS (DICEMBRE 2022)",
+      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso).",
+      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-dicembre-2022/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
+      "author": "Admin",
+      "category": "News",
+      "postDate": "2023-01-01"
+    },
+    {
+      "title": "IL RITORNO IN ITALIA DEI CURE (RECENSIONE DEI CONCERTO DI FIRENZE, 1 NOVEMBRE 2022)",
+      "message": "3 anni dopo l’ultimo tour nelle arene europee ed italiane, The Cure sono tornati in Italia con un nuovo spettacolo e un album di prossima pubblicazione. Federica Baglioni ci racconta com’è andata (spoiler: c’è anche la tracklist e il video integrale del concerto!)",
+      "contentUrl": "https://www.radioelettrica.it/music/il-ritorno-in-italia-dei-cure-recensione-dei-concerto-di-firenze-1-novembre-2022/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/11/concierto-de-the-cure-en-florencia-tour-euro-22-1638873762.5517988.2560x1440-1024x576.jpg",
+      "author": "Admin",
+      "category": "News",
+      "postDate": "2022-11-03"
+    }
+  ]
 }
