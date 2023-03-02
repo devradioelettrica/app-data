@@ -11,7 +11,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "08:59",
         "imageURL": "replay",
         "weekday": 1
@@ -61,7 +61,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "08:59",
         "imageURL": "replay",
         "weekday": 2
@@ -119,7 +119,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "08:59",
         "imageURL": "replay",
         "weekday": 3
@@ -177,7 +177,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "08:59",
         "imageURL": "replay",
         "weekday": 4
@@ -215,9 +215,9 @@
         "weekday": 4
       },
       {
-        "name": “Torpedo Blu”,
-        "speaker": “Floriana Torpedine“,
-        "startTime": “21:00",
+        "name": "Torpedo Blu",
+        "speaker": "Floriana Torpedine",
+        "startTime": "21:00",
         "endTime": "22:59",
         "imageURL": "floriana_torpedine",
         "weekday": 4
@@ -225,7 +225,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "23:00",
+        "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 4
@@ -235,7 +235,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "06:59",
         "imageURL": "replay",
         "weekday": 5
@@ -301,7 +301,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "08:59",
         "imageURL": "replay",
         "weekday": 6
@@ -351,7 +351,7 @@
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:01",
+        "startTime": "00:00",
         "endTime": "07:59",
         "imageURL": "replay",
         "weekday": 7
@@ -782,14 +782,14 @@
     {
       "name": "Livio Leone",
       "desc": "",
-      "imageURL": "logo_black",
+      "imageURL": "speaker_a_sorpresa",
       "contentURL": "https://www.radioelettrica.it/members/livio-leone/"
     },
     {
       "name": "Francesco Sciarretta",
       "desc": "",
       "imageURL": "francesco_sciarretta",
-      "contentURL": ""
+      "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
     },
     {
       "name": "Greta e Fiorenza",
@@ -802,19 +802,25 @@
       "desc": "",
       "imageURL": "ubik",
       "contentURL": "https://www.radioelettrica.it/members/ubik/"
+    },
+    {
+      "name": "Paolo Tocco",
+      "desc": "",
+      "imageURL": "speaker_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/members/paolo-tocco/"
     }
   ],
   "shopItems": [
     {
       "name": "Abbigliamento",
-      "localizedKey": "home_shop_clothing",
+      "localizedKey": "home_shop_clothing ",
       "imageURL": "clothing",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/abbigliamento"
     },
     {
       "name": "Accessori",
       "localizedKey": "home_shop_accessories",
-      "imageURL": "accessories",
+      "imageURL": "accessories ",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
     },
     {
