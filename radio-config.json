@@ -4,17 +4,17 @@
     "streamURL": "http://nr8.newradio.it:9562/stream2",
     "imageURL": "logo",
     "desc": "Radio Elettrica",
-    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome è Radio Elettrica.,"
+    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome è Radio Elettrica."
   },
   "planning": {
     "1": [
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:00",
+        "startTime": "00:01",
         "endTime": "08:59",
         "imageURL": "replay",
-        "weekday": "1"
+        "weekday": 1
       },
       {
         "name": "Morning Shower",
@@ -22,7 +22,7 @@
         "startTime": "09:00",
         "endTime": "11:59",
         "imageURL": "claudiamcdowell",
-        "weekday": "1"
+        "weekday": 1
       },
       {
         "name": "The Summer of Love",
@@ -30,7 +30,7 @@
         "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "marco_cavalieri",
-        "weekday": "1"
+        "weekday": 1
       },
       {
         "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
@@ -38,7 +38,7 @@
         "startTime": "15:00",
         "endTime": "17:59",
         "imageURL": "francesco_di_giugno",
-        "weekday": "1"
+        "weekday": 1
       },
       {
         "name": "Non so rispondere",
@@ -46,7 +46,7 @@
         "startTime": "18:00",
         "endTime": "20:59",
         "imageURL": "jonathan_giustini",
-        "weekday": "1"
+        "weekday": 1
       },
       {
         "name": "Replay",
@@ -54,17 +54,17 @@
         "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "replay",
-        "weekday": "1"
+        "weekday": 1
       }
     ],
     "2": [
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:00",
+        "startTime": "00:01",
         "endTime": "08:59",
         "imageURL": "replay",
-        "weekday": "2"
+        "weekday": 2
       },
       {
         "name": "Letture Metropolitane",
@@ -72,7 +72,7 @@
         "startTime": "09:00",
         "endTime": "11:59",
         "imageURL": "letture_metropolitane",
-        "weekday": "2"
+        "weekday": 2
       },
       {
         "name": "Allenamento al Buonumore",
@@ -80,7 +80,7 @@
         "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "agnese_valle",
-        "weekday": "2"
+        "weekday": 2
       },
       {
         "name": "Dark Entries (E Uscite Di Sicurezza)",
@@ -88,7 +88,7 @@
         "startTime": "15:00",
         "endTime": "17:59",
         "imageURL": "elisabetta_laurini",
-        "weekday": "2"
+        "weekday": 2
       },
       {
         "name": "It’s NOT Only Rock & Roll",
@@ -96,7 +96,7 @@
         "startTime": "18:00",
         "endTime": "20:59",
         "imageURL": "annarella",
-        "weekday": "2"
+        "weekday": 2
       },
       {
         "name": "To Tape",
@@ -104,7 +104,7 @@
         "startTime": "21:00",
         "endTime": "22:59",
         "imageURL": "show_a_sorpresa",
-        "weekday": "2"
+        "weekday": 2
       },
       {
         "name": "Replay",
@@ -112,17 +112,17 @@
         "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "replay",
-        "weekday": "2"
+        "weekday": 2
       }
     ],
     "3": [
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:00",
+        "startTime": "00:01",
         "endTime": "08:59",
         "imageURL": "replay",
-        "weekday": "3"
+        "weekday": 3
       },
       {
         "name": "Giramondo",
@@ -130,7 +130,7 @@
         "startTime": "09:00",
         "endTime": "10:29",
         "imageURL": "marta_squicciarini",
-        "weekday": "3"
+        "weekday": 3
       },
       {
         "name": "You Are What You Listen To",
@@ -138,7 +138,7 @@
         "startTime": "10:30",
         "endTime": "11:59",
         "imageURL": "maura_cenciarelli",
-        "weekday": "3"
+        "weekday": 3
       },
       {
         "name": "Grazie per l’immenso contributo nel corso di queste ore",
@@ -146,7 +146,7 @@
         "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "gustavo_tagliaferri",
-        "weekday": "3"
+        "weekday": 3
       },
       {
         "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
@@ -154,7 +154,7 @@
         "startTime": "15:00",
         "endTime": "17:59",
         "imageURL": "francesco_di_giugno",
-        "weekday": "3"
+        "weekday": 3
       },
       {
         "name": "Prince Faster Magazine",
@@ -162,7 +162,7 @@
         "startTime": "18:00",
         "endTime": "20:59",
         "imageURL": "prince_faster",
-        "weekday": "3"
+        "weekday": 3
       },
       {
         "name": "Replay",
@@ -170,17 +170,17 @@
         "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "replay",
-        "weekday": "3"
+        "weekday": 3
       }
     ],
     "4": [
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:00",
+        "startTime": "00:01",
         "endTime": "08:59",
         "imageURL": "replay",
-        "weekday": "4"
+        "weekday": 4
       },
       {
         "name": "You Are What You Listen To",
@@ -188,7 +188,7 @@
         "startTime": "09:00",
         "endTime": "11:59",
         "imageURL": "maura_cenciarelli",
-        "weekday": "4"
+        "weekday": 4
       },
       {
         "name": "Wanderlust",
@@ -196,7 +196,7 @@
         "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "jimbo",
-        "weekday": "4"
+        "weekday": 4
       },
       {
         "name": "Il Giardino delle Delizie",
@@ -204,7 +204,7 @@
         "startTime": "15:00",
         "endTime": "17:59",
         "imageURL": "rossella_esse",
-        "weekday": "4"
+        "weekday": 4
       },
       {
         "name": "A Ruota Libera",
@@ -212,81 +212,15 @@
         "startTime": "18:00",
         "endTime": "20:59",
         "imageURL": "gianluca_mancini",
-        "weekday": "4"
+        "weekday": 4
       },
       {
-        "name": "Torpedo Blu",
-        "speaker": "Floriana Torpedine",
-        "startTime": "21:00",
+        "name": “Torpedo Blu”,
+        "speaker": “Floriana Torpedine“,
+        "startTime": “21:00",
         "endTime": "22:59",
         "imageURL": "floriana_torpedine",
-        "weekday": "4"
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "22:00",
-        "endTime": "23:59",
-        "imageURL": "replay",
-        "weekday": "4"
-      }
-    ],
-    "5": [
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "00:00",
-        "endTime": "06:59",
-        "imageURL": "replay",
-        "weekday": "5"
-      },
-      {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
-        "startTime": "07:00",
-        "endTime": "08:59",
-        "imageURL": "jimbo",
-        "weekday": "5"
-      },
-      {
-        "name": "Caffè sospeso",
-        "speaker": "Giampiero Wallnofer",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "giampiero_wallnofer",
-        "weekday": "5"
-      },
-      {
-        "name": "The Summer of Love",
-        "speaker": "Marco Cavalieri",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "marco_cavalieri",
-        "weekday": "5"
-      },
-      {
-        "name": "Dark Entries (E Uscite Di Sicurezza)",
-        "speaker": "Elisabetta Laurini",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "elisabetta_laurini",
-        "weekday": "5"
-      },
-      {
-        "name": "Prince Faster Magazine",
-        "speaker": "Prince Faster",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "prince_faster",
-        "weekday": "5"
-      },
-      {
-        "name": "Play it Louder",
-        "speaker": "Simone De Laura",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "simone_de_laura",
-        "weekday": "5"
+        "weekday": 4
       },
       {
         "name": "Replay",
@@ -294,17 +228,83 @@
         "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "replay",
-        "weekday": "5"
+        "weekday": 4
+      }
+    ],
+    "5": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:01",
+        "endTime": "06:59",
+        "imageURL": "replay",
+        "weekday": 5
+      },
+      {
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
+        "startTime": "07:00",
+        "endTime": "08:59",
+        "imageURL": "jimbo",
+        "weekday": 5
+      },
+      {
+        "name": "Caffè sospeso",
+        "speaker": "Giampiero Wallnofer",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "giampiero_wallnofer",
+        "weekday": 5
+      },
+      {
+        "name": "The Summer of Love",
+        "speaker": "Marco Cavalieri",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "marco_cavalieri",
+        "weekday": 5
+      },
+      {
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "elisabetta_laurini",
+        "weekday": 5
+      },
+      {
+        "name": "Prince Faster Magazine",
+        "speaker": "Prince Faster",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "prince_faster",
+        "weekday": 5
+      },
+      {
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "simone_de_laura",
+        "weekday": 5
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "23:00",
+        "endTime": "23:59",
+        "imageURL": "replay",
+        "weekday": 5
       }
     ],
     "6": [
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:00",
+        "startTime": "00:01",
         "endTime": "08:59",
         "imageURL": "replay",
-        "weekday": "6"
+        "weekday": 6
       },
       {
         "name": "Saturday Vibes",
@@ -312,7 +312,7 @@
         "startTime": "09:00",
         "endTime": "11:59",
         "imageURL": "gianpaolo_castaldo",
-        "weekday": "6"
+        "weekday": 6
       },
       {
         "name": "Born to Run",
@@ -320,7 +320,7 @@
         "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "federica_baglioni",
-        "weekday": "6"
+        "weekday": 6
       },
       {
         "name": "Magu e l’ombra del vecchio",
@@ -328,7 +328,7 @@
         "startTime": "15:00",
         "endTime": "17:59",
         "imageURL": "mario_tagliaferri",
-        "weekday": "6"
+        "weekday": 6
       },
       {
         "name": "Il Rockaphone",
@@ -336,7 +336,7 @@
         "startTime": "18:00",
         "endTime": "19:59",
         "imageURL": "show_a_sorpresa",
-        "weekday": "6"
+        "weekday": 6
       },
       {
         "name": "Replay",
@@ -344,17 +344,17 @@
         "startTime": "20:00",
         "endTime": "23:59",
         "imageURL": "replay",
-        "weekday": "6"
+        "weekday": 6
       }
     ],
     "7": [
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "00:00",
+        "startTime": "00:01",
         "endTime": "07:59",
         "imageURL": "replay",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Play it Louder",
@@ -362,7 +362,7 @@
         "startTime": "08:00",
         "endTime": "11:59",
         "imageURL": "simone_de_laura",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Isterika",
@@ -370,7 +370,7 @@
         "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "sira_f_de_vanna",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "G Pills – Anche Le Formiche Pizzicano…",
@@ -378,7 +378,7 @@
         "startTime": "15:00",
         "endTime": "15:59",
         "imageURL": "gpills",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Peace and Noise",
@@ -386,7 +386,7 @@
         "startTime": "16:00",
         "endTime": "17:59",
         "imageURL": "show_a_sorpresa",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Jazztrain",
@@ -394,7 +394,7 @@
         "startTime": "17:00",
         "endTime": "17:59",
         "imageURL": "jazztrain",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Oltre il giardino",
@@ -402,7 +402,7 @@
         "startTime": "18:00",
         "endTime": "19:59",
         "imageURL": "marco_del_vecchio",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Manhole",
@@ -410,7 +410,7 @@
         "startTime": "20:00",
         "endTime": "21:59",
         "imageURL": "ubik",
-        "weekday": "7"
+        "weekday": 7
       },
       {
         "name": "Emotional Waves",
@@ -418,7 +418,7 @@
         "startTime": "22:00",
         "endTime": "23:59",
         "imageURL": "the_moonchild",
-        "weekday": "7"
+        "weekday": 7
       }
     ]
   },
@@ -782,14 +782,14 @@
     {
       "name": "Livio Leone",
       "desc": "",
-      "imageURL": "speaker_a_sorpresa",
+      "imageURL": "logo_black",
       "contentURL": "https://www.radioelettrica.it/members/livio-leone/"
     },
     {
       "name": "Francesco Sciarretta",
       "desc": "",
       "imageURL": "francesco_sciarretta",
-      "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
+      "contentURL": ""
     },
     {
       "name": "Greta e Fiorenza",
@@ -802,25 +802,19 @@
       "desc": "",
       "imageURL": "ubik",
       "contentURL": "https://www.radioelettrica.it/members/ubik/"
-    },
-    {
-      "name": "Paolo Tocco",
-      "desc": "",
-      "imageURL": "speaker_a_sorpresa",
-      "contentURL": "https://www.radioelettrica.it/members/paolo-tocco/"
     }
   ],
   "shopItems": [
     {
-      "name": "Abbigliamento ",
-      "localizedKey": "home_shop_clothing ",
+      "name": "Abbigliamento",
+      "localizedKey": "home_shop_clothing",
       "imageURL": "clothing",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/abbigliamento"
     },
     {
-      "name": "Accessori ",
+      "name": "Accessori",
       "localizedKey": "home_shop_accessories",
-      "imageURL": "accessories ",
+      "imageURL": "accessories",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
     },
     {
