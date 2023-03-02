@@ -813,14 +813,14 @@
   "shopItems": [
     {
       "name": "Abbigliamento",
-      "localizedKey": "home_shop_clothing ",
+      "localizedKey": "home_shop_clothing",
       "imageURL": "clothing",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/abbigliamento"
     },
     {
       "name": "Accessori",
       "localizedKey": "home_shop_accessories",
-      "imageURL": "accessories ",
+      "imageURL": "accessories",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
     },
     {
