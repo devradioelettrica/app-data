@@ -526,6 +526,30 @@
       "contentURL": "https://www.radioelettrica.it/shows/bufalo-bill-jonathan-giustini/"
     },
     {
+      "name": "Peace and Noise",
+      "speaker": "Stefano Strina",
+      "imageURL": "show_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/shows/stefano-strina-peace-and-noise/"
+    },
+    {
+      "name": "To Tape",
+      "speaker": "Renato Failla",
+      "imageURL": "show_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/shows/renato-failla-to-tape/"
+    },
+    {
+      "name": "Il Rockaphone",
+      "speaker": "Livio Leone",
+      "imageURL": "show_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/shows/livio-leone-il-rockaphone/"
+    },
+    {
+      "name": "Trans Europe Express",
+      "speaker": "Paolo Tocco",
+      "imageURL": "show_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/shows/paolo-tocco-trans-europe-express/"
+    },
+    {
       "name": "Jazz e oltre",
       "speaker": "Francesco Sciarretta",
       "imageURL": "francesco_sciarretta",
@@ -590,12 +614,6 @@
       "speaker": "Prince Faster",
       "imageURL": "prince_faster",
       "contentURL": "https://www.radioelettrica.it/shows/prince-faster-magazine/"
-    },
-    {
-      "name": "Show a sorpresa",
-      "speaker": "Show a sorpresa",
-      "imageURL": "show_a_sorpresa",
-      "contentURL": "https://www.radioelettrica.it/shows/show-a-sorpresa/"
     }
   ],
   "speakers": [
@@ -626,7 +644,7 @@
     {
       "name": "Claudia McDowell",
       "desc": "",
-      "imageURL": "claudiamcdowell",
+      "imageURL": "speaker_a_sorpresa",
       "contentURL": "https://www.radioelettrica.it/members/claudia-mcdowell/"
     },
     {
@@ -820,7 +838,7 @@
     {
       "name": "Accessori",
       "localizedKey": "home_shop_accessories",
-      "imageURL": "accessories",
+      "imageURL": "accessories ",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
     },
     {
