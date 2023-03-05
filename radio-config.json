@@ -218,14 +218,14 @@
         "name": "Torpedo Blu",
         "speaker": "Floriana Torpedine",
         "startTime": "21:00",
-        "endTime": "22:59",
+        "endTime": "22:29",
         "imageURL": "floriana_torpedine",
         "weekday": 4
       },
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "22:30",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 4
@@ -374,7 +374,7 @@
       },
       {
         "name": "G Pills – Anche Le Formiche Pizzicano…",
-        "speaker": "Greta Panettieri e Fiorenza Gherardi De Candei",
+        "speaker": "Greta e Fiorenza",
         "startTime": "15:00",
         "endTime": "15:59",
         "imageURL": "gpills",
@@ -838,7 +838,7 @@
     {
       "name": "Accessori",
       "localizedKey": "home_shop_accessories",
-      "imageURL": "accessories ",
+      "imageURL": "accessories",
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
     },
     {
