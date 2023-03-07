@@ -21,7 +21,7 @@
         "speaker": "Claudia McDowell",
         "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "claudiamcdowell",
+        "imageURL": "show_a_sorpresa",
         "weekday": 1
       },
       {
@@ -398,7 +398,7 @@
       },
       {
         "name": "Oltre il giardino",
-        "speaker": "Marco Del Vecchio",
+        "speaker": "Marco del Vecchio",
         "startTime": "18:00",
         "endTime": "19:59",
         "imageURL": "marco_del_vecchio",
@@ -431,7 +431,7 @@
     },
     {
       "name": "G Pills – Anche Le Formiche Pizzicano…",
-      "speaker": "Greta Panettieri e Fiorenza Gherardi De Candei",
+      "speaker": "Greta e Fiorenza",
       "imageURL": "gpills",
       "contentURL": "https://www.radioelettrica.it/shows/g-pills-con-greta-panettieri-e-fiorenza-gherardi-de-candei"
     },
@@ -503,7 +503,7 @@
     },
     {
       "name": "Oltre il giardino",
-      "speaker": "Marco Del Vecchio",
+      "speaker": "Marco del Vecchio",
       "imageURL": "marco_del_vecchio",
       "contentURL": "https://www.radioelettrica.it/shows/oltre-il-giardino-marco-del-vecchio/"
     },
@@ -588,7 +588,7 @@
     {
       "name": "Morning Shower",
       "speaker": "Claudia McDowell",
-      "imageURL": "claudiamcdowell",
+      "imageURL": "show_a_sorpresa",
       "contentURL": "https://www.radioelettrica.it/shows/morning-shower-claudia-mcdowell/"
     },
     {
