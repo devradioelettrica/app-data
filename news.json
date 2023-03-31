@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "VINCI I METALLICA CON RADIO ELETTRICA!",
+      "message": "GIOVEDÌ 13 APRILE 2023, ANTEPRIMA MONDIALE",
+      "contentUrl": "https://www.radioelettrica.it/eventi/vinci-i-metallica-con-radio-elettrica/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/03/metallica.jpg",
+      "author": "Admin",
+      "category": "News",
+      "postDate": "2023-03-23"
+    },
+    {
+      "title": "THE JUKEBOXERS IN CONCERTO",
+      "message": "VENERDÌ 14 APRILE 2023, DALLE ORE 21:30 LIAN CLUB (IL MITICO ‘BARCONE’)",
+      "contentUrl": "https://www.radioelettrica.it/eventi/radio-elettrica-fa-festa-the-jukeboxers-in-concerto-dj-set-di-prince-faster-pierluigi-pj-14-aprile-2023-roma-lian-club/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/03/3-1024x576.jpg",
+      "author": "Admin",
+      "category": "News",
+      "postDate": "2023-03-23"
+    },
+    {
       "title": "IL MURO DEL CANTO",
       "message": "Solo 40 persone. Per assistere a un concerto esclusivo",
       "contentUrl": "https://www.radioelettrica.it/eventi/muro-del-canto-vuoi-diventare-produttore-del-loro-nuovo-disco-ecco-come-partecipare-al-live-esclusivo/",
