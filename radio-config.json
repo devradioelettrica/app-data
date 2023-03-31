@@ -215,17 +215,9 @@
         "weekday": 4
       },
       {
-        "name": "Torpedo Blu",
-        "speaker": "Floriana Torpedine",
-        "startTime": "21:00",
-        "endTime": "22:29",
-        "imageURL": "floriana_torpedine",
-        "weekday": 4
-      },
-      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "22:30",
+        "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 4
@@ -284,16 +276,8 @@
         "name": "Play it Louder",
         "speaker": "Simone De Laura",
         "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "simone_de_laura",
-        "weekday": 5
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "replay",
+        "imageURL": "simone_de_laura",
         "weekday": 5
       }
     ],
