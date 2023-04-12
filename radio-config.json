@@ -397,11 +397,19 @@
         "weekday": 7
       },
       {
-        "name": "Emotional Waves",
-        "speaker": "Moonchild",
+        "name": "Trans Europe Express ",
+        "speaker": "Paolo Tocco",
         "startTime": "22:00",
+        "endTime": "22:29",
+        "imageURL": "show_a_sorpresa",
+        "weekday": 7
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "22:30",
         "endTime": "23:59",
-        "imageURL": "the_moonchild",
+        "imageURL": "replay",
         "weekday": 7
       }
     ]
