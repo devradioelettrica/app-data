@@ -318,14 +318,22 @@
         "name": "Il Rockaphone",
         "speaker": "Livio Leone",
         "startTime": "18:00",
-        "endTime": "19:59",
+        "endTime": "20:59",
         "imageURL": "show_a_sorpresa",
+        "weekday": 6
+      },
+      {
+        "name": "Jazztrain",
+        "speaker": "Francesco Sciarretta",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "jazztrain",
         "weekday": 6
       },
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "20:00",
+        "startTime": "22:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 6
@@ -470,12 +478,6 @@
       "contentURL": "https://www.radioelettrica.it/shows/caffe-sospeso-giampiero-wallnofer/"
     },
     {
-      "name": "Emotional waves",
-      "speaker": "Moonchild",
-      "imageURL": "the_moonchild",
-      "contentURL": "https://www.radioelettrica.it/shows/moonchild-emotional-waves/"
-    },
-    {
       "name": "Manhole",
       "speaker": "Ubik",
       "imageURL": "ubik",
@@ -606,6 +608,12 @@
       "speaker": "Prince Faster",
       "imageURL": "prince_faster",
       "contentURL": "https://www.radioelettrica.it/shows/prince-faster-magazine/"
+    },
+    {
+      "name": "Show a sorpresa",
+      "speaker": "Show a sorpresa",
+      "imageURL": "show_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/shows/show-a-sorpresa/"
     }
   ],
   "speakers": [
