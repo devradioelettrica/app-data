@@ -165,9 +165,17 @@
         "weekday": 3
       },
       {
+        "name": "Resistenze Sonore",
+        "speaker": "Alex Sabetti",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "replay",
+        "weekday": 3
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 3
