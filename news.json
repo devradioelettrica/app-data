@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "DUDU TASSA & JONNY GREENWOOD: RECENSIONE DI JARAK QARIBAK",
+      "message": "Dudu Tassa & Jonny Greenwood – con il nuovo disco Jarak Qaribak – sfoggiano un’eleganza innata.",
+      "contentUrl": "https://www.radioelettrica.it/music/dudu-tassa-jonny-greenwood-recensione-di-jarak-qaribak/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/07/Dudu-Tassa-Jonny-Greenwood-recensione-di-Jarak-Qaribak-1024x1024.jpg",
+      "author": "Manuel Nash",
+      "category": "News",
+      "postDate": "2023-07-07"
+    },
+    {
+      "title": "INTERPOL: RECENSIONE CONCERTO DI ROMA, 28 GIUGNO 2023",
+      "message": "Il concerto romano conferma gli Interpol come una band che s’esprime al meglio sul palco. Ecco com’è andato il concerto di Roma.",
+      "contentUrl": "https://www.radioelettrica.it/music/interpol-recensione-concerto-di-roma-28-giugno-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/07/Interpol_band-1024x768.jpeg",
+      "author": "Federica Baglioni",
+      "category": "News",
+      "postDate": "2023-07-01"
+    },
+    {
+      "title": "Elettrica’s Highlights (Luglio 2023)",
+      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
+      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-luglio-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
+      "author": "Redazione",
+      "category": "News",
+      "postDate": "2023-06-02"
+    },
+    {
       "title": "Elettrica’s Highlights (Giugno 2023)",
       "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
       "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-giugno-2023/",
@@ -8,6 +35,24 @@
       "author": "Redazione",
       "category": "News",
       "postDate": "2023-06-02"
+    },
+    {
+      "title": "Elettrica’s Highlights (Maggio 2023)",
+      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
+      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-maggio-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
+      "author": "Redazione",
+      "category": "News",
+      "postDate": "2023-05-02"
+    },
+    {
+      "title": "Elettrica’s Highlights (Aprile 2023)",
+      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso).",
+      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-aprile-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
+      "author": "Redazione",
+      "category": "News",
+      "postDate": "2023-04-01"
     },
     {
       "title": "Elettrica’s Highlights (Maggio 2023)",
