@@ -12,6 +12,30 @@
         "name": "Summer Selection",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "replay",
+        "weekday": 1
+      },
+      {
+        "name": "Morning Shower",
+        "speaker": "Claudia McDowell",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "show_a_sorpresa",
+        "weekday": 1
+      },
+      {
+        "name": "The Summer of Love",
+        "speaker": "Marco Cavalieri",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "marco_cavalieri",
+        "weekday": 1
+      },
+      {
+        "name": "Summer Selection",
+        "speaker": "Radio Elettrica",
+        "startTime": "15:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 1
@@ -22,6 +46,30 @@
         "name": "Summer Selection",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "11:59",
+        "imageURL": "replay",
+        "weekday": 2
+      },
+      {
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
+        "startTime": "12:00",
+        "endTime": "15:59",
+        "imageURL": "jimbo",
+        "weekday": 2
+      },
+      {
+        "name": "Caffè sospeso",
+        "speaker": "Giampiero Wallnofer",
+        "startTime": "16:00",
+        "endTime": "19:59",
+        "imageURL": "giampiero_wallnofer",
+        "weekday": 2
+      },
+      {
+        "name": "Summer Selection",
+        "speaker": "Radio Elettrica",
+        "startTime": "20:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 2
@@ -32,6 +80,30 @@
         "name": "Summer Selection",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "11:59",
+        "imageURL": "replay",
+        "weekday": 3
+      },
+      {
+        "name": "Grazie per l’immenso contributo nel corso di queste ore",
+        "speaker": "Gustavo Tagliaferri",
+        "startTime": "12:00",
+        "endTime": "15:59",
+        "imageURL": "gustavo_tagliaferri",
+        "weekday": 3
+      },
+      {
+        "name": "Prince Faster Magazine",
+        "speaker": "Prince Faster",
+        "startTime": "16:00",
+        "endTime": "19:59",
+        "imageURL": "prince_faster",
+        "weekday": 3
+      },
+      {
+        "name": "Summer Selection",
+        "speaker": "Radio Elettrica",
+        "startTime": "20:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 3
@@ -42,6 +114,30 @@
         "name": "Summer Selection",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "14:59",
+        "imageURL": "replay",
+        "weekday": 4
+      },
+      {
+        "name": "Il Giardino delle Delizie",
+        "speaker": "Rossella Esse",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "rossella_esse",
+        "weekday": 4
+      },
+      {
+        "name": "A Ruota Libera",
+        "speaker": "Gianluca",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "gianluca_mancini",
+        "weekday": 4
+      },
+      {
+        "name": "Summer Selection",
+        "speaker": "Radio Elettrica",
+        "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 4
@@ -52,6 +148,30 @@
         "name": "Summer Selection",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "replay",
+        "weekday": 5
+      },
+      {
+        "name": "Caffè sospeso",
+        "speaker": "Giampiero Wallnofer",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "giampiero_wallnofer",
+        "weekday": 5
+      },
+      {
+        "name": "The Summer of Love",
+        "speaker": "Marco Cavalieri",
+        "startTime": "12:00",
+        "endTime": "15:59",
+        "imageURL": "marco_cavalieri",
+        "weekday": 5
+      },
+      {
+        "name": "Summer Selection",
+        "speaker": "Radio Elettrica",
+        "startTime": "16:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 5
