@@ -9,7 +9,7 @@
   "planning": {
     "1": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "08:59",
@@ -33,9 +33,25 @@
         "weekday": 1
       },
       {
-        "name": "Summer Selection",
-        "speaker": "Radio Elettrica",
+        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+        "speaker": "Francesco Di Giugno",
         "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "francesco_di_giugno",
+        "weekday": 1
+      },
+      {
+        "name": "Non so rispondere",
+        "speaker": "Jonathan Giustini",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "jonathan_giustini",
+        "weekday": 1
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 1
@@ -43,33 +59,57 @@
     ],
     "2": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "11:59",
+        "endTime": "08:59",
         "imageURL": "replay",
         "weekday": 2
       },
       {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
+        "name": "Letture Metropolitane",
+        "speaker": "Giovanni Villani & Flavia Capone",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "letture_metropolitane",
+        "weekday": 2
+      },
+      {
+        "name": "Allenamento al Buonumore",
+        "speaker": "Agnese Valle",
         "startTime": "12:00",
-        "endTime": "15:59",
-        "imageURL": "jimbo",
+        "endTime": "14:59",
+        "imageURL": "agnese_valle",
         "weekday": 2
       },
       {
-        "name": "Caffè sospeso",
-        "speaker": "Giampiero Wallnofer",
-        "startTime": "16:00",
-        "endTime": "19:59",
-        "imageURL": "giampiero_wallnofer",
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "elisabetta_laurini",
         "weekday": 2
       },
       {
-        "name": "Summer Selection",
+        "name": "It’s NOT Only Rock & Roll",
+        "speaker": "Annarella",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "annarella",
+        "weekday": 2
+      },
+      {
+        "name": "To Tape",
+        "speaker": "Renato Failla",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "show_a_sorpresa",
+        "weekday": 2
+      },
+      {
+        "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "20:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 2
@@ -77,33 +117,65 @@
     ],
     "3": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "11:59",
+        "endTime": "08:59",
         "imageURL": "replay",
+        "weekday": 3
+      },
+      {
+        "name": "Giramondo",
+        "speaker": "Marta Squicciarini",
+        "startTime": "09:00",
+        "endTime": "10:29",
+        "imageURL": "marta_squicciarini",
+        "weekday": 3
+      },
+      {
+        "name": "You Are What You Listen To",
+        "speaker": "Maura Cenciarelli",
+        "startTime": "10:30",
+        "endTime": "11:59",
+        "imageURL": "maura_cenciarelli",
         "weekday": 3
       },
       {
         "name": "Grazie per l’immenso contributo nel corso di queste ore",
         "speaker": "Gustavo Tagliaferri",
         "startTime": "12:00",
-        "endTime": "15:59",
+        "endTime": "14:59",
         "imageURL": "gustavo_tagliaferri",
         "weekday": 3
       },
       {
+        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+        "speaker": "Francesco Di Giugno",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "francesco_di_giugno",
+        "weekday": 3
+      },
+      {
         "name": "Prince Faster Magazine",
-        "speaker": "Prince Faster",
-        "startTime": "16:00",
-        "endTime": "19:59",
+        "speaker": "Prince Faster e Omone",
+        "startTime": "18:00",
+        "endTime": "20:59",
         "imageURL": "prince_faster",
         "weekday": 3
       },
       {
-        "name": "Summer Selection",
+        "name": "Resistenze Sonore",
+        "speaker": "Alex Sabetti",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "replay",
+        "weekday": 3
+      },
+      {
+        "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "20:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 3
@@ -111,11 +183,27 @@
     ],
     "4": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "14:59",
+        "endTime": "08:59",
         "imageURL": "replay",
+        "weekday": 4
+      },
+      {
+        "name": "You Are What You Listen To",
+        "speaker": "Maura Cenciarelli",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "maura_cenciarelli",
+        "weekday": 4
+      },
+      {
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "jimbo",
         "weekday": 4
       },
       {
@@ -135,7 +223,7 @@
         "weekday": 4
       },
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "21:00",
         "endTime": "23:59",
@@ -145,11 +233,19 @@
     ],
     "5": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
+        "endTime": "06:59",
         "imageURL": "replay",
+        "weekday": 5
+      },
+      {
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
+        "startTime": "07:00",
+        "endTime": "08:59",
+        "imageURL": "jimbo",
         "weekday": 5
       },
       {
@@ -164,24 +260,88 @@
         "name": "The Summer of Love",
         "speaker": "Marco Cavalieri",
         "startTime": "12:00",
-        "endTime": "15:59",
+        "endTime": "14:59",
         "imageURL": "marco_cavalieri",
         "weekday": 5
       },
       {
-        "name": "Summer Selection",
-        "speaker": "Radio Elettrica",
-        "startTime": "16:00",
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "elisabetta_laurini",
+        "weekday": 5
+      },
+      {
+        "name": "Prince Faster Magazine",
+        "speaker": "Prince Faster",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "prince_faster",
+        "weekday": 5
+      },
+      {
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
+        "startTime": "21:00",
         "endTime": "23:59",
-        "imageURL": "replay",
+        "imageURL": "simone_de_laura",
         "weekday": 5
       }
     ],
     "6": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "replay",
+        "weekday": 6
+      },
+      {
+        "name": "Saturday Vibes",
+        "speaker": "Gianpaolo Castaldo",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "gianpaolo_castaldo",
+        "weekday": 6
+      },
+      {
+        "name": "Born to Run",
+        "speaker": "Federica Baglioni",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "federica_baglioni",
+        "weekday": 6
+      },
+      {
+        "name": "Magu e l’ombra del vecchio",
+        "speaker": "Mario Tagliaferri",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "mario_tagliaferri",
+        "weekday": 6
+      },
+      {
+        "name": "Il Rockaphone",
+        "speaker": "Livio Leone",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "show_a_sorpresa",
+        "weekday": 6
+      },
+      {
+        "name": "Jazztrain",
+        "speaker": "Francesco Sciarretta",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "jazztrain",
+        "weekday": 6
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "22:00",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 6
@@ -189,9 +349,81 @@
     ],
     "7": [
       {
-        "name": "Summer Selection",
+        "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
+        "endTime": "07:59",
+        "imageURL": "replay",
+        "weekday": 7
+      },
+      {
+        "name": "L'alba di Radio Elettrica",
+        "speaker": "Simone De Laura",
+        "startTime": "08:00",
+        "endTime": "11:59",
+        "imageURL": "simone_de_laura",
+        "weekday": 7
+      },
+      {
+        "name": "Isterika",
+        "speaker": "Sira F. De Vanna",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "sira_f_de_vanna",
+        "weekday": 7
+      },
+      {
+        "name": "G Pills – Anche Le Formiche Pizzicano…",
+        "speaker": "Greta e Fiorenza",
+        "startTime": "15:00",
+        "endTime": "15:59",
+        "imageURL": "gpills",
+        "weekday": 7
+      },
+      {
+        "name": "Peace and Noise",
+        "speaker": "Stefano Strina",
+        "startTime": "16:00",
+        "endTime": "17:59",
+        "imageURL": "show_a_sorpresa",
+        "weekday": 7
+      },
+      {
+        "name": "Jazztrain",
+        "speaker": "Francesco Sciarretta",
+        "startTime": "17:00",
+        "endTime": "17:59",
+        "imageURL": "jazztrain",
+        "weekday": 7
+      },
+      {
+        "name": "Oltre il giardino",
+        "speaker": "Marco del Vecchio",
+        "startTime": "18:00",
+        "endTime": "19:59",
+        "imageURL": "marco_del_vecchio",
+        "weekday": 7
+      },
+      {
+        "name": "Manholes",
+        "speaker": "Ubik",
+        "startTime": "20:00",
+        "endTime": "21:59",
+        "imageURL": "ubik",
+        "weekday": 7
+      },
+      {
+        "name": "Trans Europe Express ",
+        "speaker": "Paolo Tocco",
+        "startTime": "22:00",
+        "endTime": "22:29",
+        "imageURL": "show_a_sorpresa",
+        "weekday": 7
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "22:30",
         "endTime": "23:59",
         "imageURL": "replay",
         "weekday": 7
