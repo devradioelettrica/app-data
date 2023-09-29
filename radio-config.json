@@ -75,11 +75,11 @@
         "weekday": 2
       },
       {
-        "name": "Allenamento al Buonumore",
-        "speaker": "Agnese Valle",
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "agnese_valle",
+        "imageURL": "jimbo",
         "weekday": 2
       },
       {
@@ -91,11 +91,11 @@
         "weekday": 2
       },
       {
-        "name": "It’s NOT Only Rock & Roll",
-        "speaker": "Annarella",
+        "name": "Caffè sospeso",
+        "speaker": "Giampiero Wallnofer",
         "startTime": "18:00",
         "endTime": "20:59",
-        "imageURL": "annarella",
+        "imageURL": "giampiero_wallnofer",
         "weekday": 2
       },
       {
@@ -125,19 +125,11 @@
         "weekday": 3
       },
       {
-        "name": "Giramondo",
-        "speaker": "Marta Squicciarini",
+        "name": "Allenamento al Buonumore",
+        "speaker": "Agnese Valle",
         "startTime": "09:00",
-        "endTime": "10:29",
-        "imageURL": "marta_squicciarini",
-        "weekday": 3
-      },
-      {
-        "name": "You Are What You Listen To",
-        "speaker": "Maura Cenciarelli",
-        "startTime": "10:30",
         "endTime": "11:59",
-        "imageURL": "maura_cenciarelli",
+        "imageURL": "agnese_valle",
         "weekday": 3
       },
       {
@@ -199,11 +191,11 @@
         "weekday": 4
       },
       {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
+        "name": "Grazie per l’immenso contributo nel corso di queste ore",
+        "speaker": "Gustavo Tagliaferri",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "jimbo",
+        "imageURL": "gustavo_tagliaferri",
         "weekday": 4
       },
       {
@@ -223,11 +215,11 @@
         "weekday": 4
       },
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
         "startTime": "21:00",
         "endTime": "23:59",
-        "imageURL": "replay",
+        "imageURL": "simone_de_laura",
         "weekday": 4
       }
     ],
@@ -236,16 +228,8 @@
         "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "06:59",
-        "imageURL": "replay",
-        "weekday": 5
-      },
-      {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
-        "startTime": "07:00",
         "endTime": "08:59",
-        "imageURL": "jimbo",
+        "imageURL": "replay",
         "weekday": 5
       },
       {
