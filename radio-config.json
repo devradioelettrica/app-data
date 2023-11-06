@@ -91,11 +91,11 @@
         "weekday": 2
       },
       {
-        "name": "Caffè sospeso",
-        "speaker": "Giampiero Wallnofer",
+        "name": "A Ruota Libera",
+        "speaker": "Gianluca",
         "startTime": "18:00",
         "endTime": "20:59",
-        "imageURL": "giampiero_wallnofer",
+        "imageURL": "gianluca_mancini",
         "weekday": 2
       },
       {
@@ -191,11 +191,11 @@
         "weekday": 4
       },
       {
-        "name": "Grazie per l’immenso contributo nel corso di queste ore",
-        "speaker": "Gustavo Tagliaferri",
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "gustavo_tagliaferri",
+        "imageURL": "jimbo",
         "weekday": 4
       },
       {
@@ -207,11 +207,11 @@
         "weekday": 4
       },
       {
-        "name": "A Ruota Libera",
-        "speaker": "Gianluca",
+        "name": "Hard Times",
+        "speaker": "Andrea Ciccomartino",
         "startTime": "18:00",
         "endTime": "20:59",
-        "imageURL": "gianluca_mancini",
+        "imageURL": "show_a_sorpresa",
         "weekday": 4
       },
       {
@@ -530,6 +530,12 @@
       "contentURL": "https://www.radioelettrica.it/shows/paolo-tocco-trans-europe-express/"
     },
     {
+      "name": "Hard Times",
+      "speaker": "Andrea Ciccomartino",
+      "imageURL": "show_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/shows/andrea-ciccomartino-hard-times/"
+    },
+    {
       "name": "Jazz e oltre",
       "speaker": "Francesco Sciarretta",
       "imageURL": "francesco_sciarretta",
@@ -600,12 +606,6 @@
       "speaker": "Prince Faster",
       "imageURL": "prince_faster",
       "contentURL": "https://www.radioelettrica.it/shows/prince-faster-magazine/"
-    },
-    {
-      "name": "Show a sorpresa",
-      "speaker": "Show a sorpresa",
-      "imageURL": "show_a_sorpresa",
-      "contentURL": "https://www.radioelettrica.it/shows/show-a-sorpresa/"
     }
   ],
   "speakers": [
@@ -818,6 +818,12 @@
       "desc": "",
       "imageURL": "speaker_a_sorpresa",
       "contentURL": "https://www.radioelettrica.it/members/paolo-tocco/"
+    },
+    {
+      "name": "Andrea Ciccomartino",
+      "desc": "",
+      "imageURL": "speaker_a_sorpresa",
+      "contentURL": "https://www.radioelettrica.it/members/andrea-ciccomartino/"
     }
   ],
   "shopItems": [
