@@ -41,11 +41,11 @@
         "weekday": 1
       },
       {
-        "name": "Non so rispondere",
-        "speaker": "Jonathan Giustini",
+        "name": "It’s NOT Only Rock & Roll",
+        "speaker": "Annarella",
         "startTime": "18:00",
         "endTime": "20:59",
-        "imageURL": "jonathan_giustini",
+        "imageURL": "annarella",
         "weekday": 1
       },
       {
@@ -722,12 +722,6 @@
       "desc": "",
       "imageURL": "marco_del_vecchio",
       "contentURL": "https://www.radioelettrica.it/members/marco-del-vecchio/"
-    },
-    {
-      "name": "The Moonchild",
-      "desc": "",
-      "imageURL": "the_moonchild",
-      "contentURL": "https://www.radioelettrica.it/members/the-moonchild/"
     },
     {
       "name": "Giampiero Wallnofer",
