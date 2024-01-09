@@ -1,13 +1,22 @@
 {
   "news": [
     {
-      "title": "A SILENT NOISE + CHRISTABEL DREAMS",
-      "message": "RADIO ELETTRICA PRESENTA A SILENT NOISE + CHRISTABEL DREAMS [new wave night #1] un doppio concerto da non perdere! Sabato 18 novembre 2023, ore 21.30 Ingresso libero, ma se vuoi sostenerci con una donazione ti regaleremo un sorriso. Glitch Soundclub, a Roma, in via Stefano Colonna 9 (zona Pigneto). Per la cena è consigliata la prenotazione via whatsapp +39 3289046516 Serata a sostegno di Radio Elettrica. Impossibile mancare!",
-      "contentUrl": "https://www.radioelettrica.it/event/a-silent-noise-christabel-dreams-doppio-concerto-18-novembre-2023-roma-glitch-soundclub/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/10/glitch-18-novembre-2023-def-1024x576.jpg",
+      "title": "Elettrica’s Highlights (Gennaio 2024)",
+      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono due classifiche: gli highlights delle uscite dell’ultimo mese e brani del passato da riscoprire.",
+      "contentUrl": "https://www.radioelettrica.it/music/elettrica-highlights-gennaio-2024/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
       "author": "Redazione",
       "category": "News",
-      "postDate": "2023-10-24"
+      "postDate": "2024-02-02"
+    },
+    {
+      "title": "Elettrica’s Highlights (Dicembre 2023)",
+      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite dell’ultimo mese (in rigoroso ordine sparso).",
+      "contentUrl": "https://www.radioelettrica.it/music/elettrica-highlights-dicembre-2023/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
+      "author": "Redazione",
+      "category": "News",
+      "postDate": "2023-11-01"
     },
     {
       "title": "Elettrica’s Highlights (Novembre 2023)",
