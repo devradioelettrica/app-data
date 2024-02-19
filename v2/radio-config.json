@@ -1,0 +1,849 @@
+{
+  "station": {
+    "name": "Radio Elettrica",
+    "streamURL": "http://nr8.newradio.it:9562/stream2",
+    "imageURL": "logo",
+    "desc": "Radio Elettrica",
+    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome è Radio Elettrica."
+  },
+  "planning": {
+    "1": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 1
+      },
+      {
+        "name": "Morning Shower",
+        "speaker": "Claudia McDowell",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "weekday": 1
+      },
+      {
+        "name": "The Summer of Love",
+        "speaker": "Marco Cavalieri",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
+        "weekday": 1
+      },
+      {
+        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+        "speaker": "Francesco Di Giugno",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
+        "weekday": 1
+      },
+      {
+        "name": "It’s NOT Only Rock & Roll",
+        "speaker": "Annarella",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/annarella.jpg",
+        "weekday": 1
+      },
+      {
+        "name": "Non so rispondere",
+        "speaker": "Jonathan Giustini",
+        "startTime": "21:00",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/non-so-rispondere.jpeg",
+        "weekday": 1
+      }
+    ],
+    "2": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "Letture Metropolitane",
+        "speaker": "Giovanni Villani & Flavia Capone",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/letture-metropolitane.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "A Ruota Libera",
+        "speaker": "Gianluca",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "To Tape",
+        "speaker": "Renato Failla",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "weekday": 2
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "23:00",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 2
+      }
+    ],
+    "3": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 3
+      },
+      {
+        "name": "Allenamento al Buonumore",
+        "speaker": "Agnese Valle",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/agnese-valle.jpg",
+        "weekday": 3
+      },
+      {
+        "name": "Grazie per l’immenso contributo nel corso di queste ore",
+        "speaker": "Gustavo Tagliaferri",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+        "weekday": 3
+      },
+      {
+        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+        "speaker": "Francesco Di Giugno",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
+        "weekday": 3
+      },
+      {
+        "name": "Prince Faster Magazine",
+        "speaker": "Prince Faster e Omone",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/prince-faster.jpg",
+        "weekday": 3
+      },
+      {
+        "name": "Resistenze Sonore",
+        "speaker": "Alex Sabetti",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 3
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "23:00",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 3
+      }
+    ],
+    "4": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 4
+      },
+      {
+        "name": "You Are What You Listen To",
+        "speaker": "Maura Cenciarelli",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/maura-cenciarelli.jpeg",
+        "weekday": 4
+      },
+      {
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
+        "weekday": 4
+      },
+      {
+        "name": "Il Giardino delle Delizie",
+        "speaker": "Rossella Esse",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.jpeg",
+        "weekday": 4
+      },
+      {
+        "name": "Hard Times",
+        "speaker": "Andrea Ciccomartino",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "weekday": 4
+      },
+      {
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
+        "startTime": "21:00",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "weekday": 4
+      }
+    ],
+    "5": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 5
+      },
+      {
+        "name": "Caffè sospeso",
+        "speaker": "Giampiero Wallnofer",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/giampiero-wallnofer.jpg",
+        "weekday": 5
+      },
+      {
+        "name": "The Summer of Love",
+        "speaker": "Marco Cavalieri",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
+        "weekday": 5
+      },
+      {
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
+        "weekday": 5
+      },
+      {
+        "name": "Prince Faster Magazine",
+        "speaker": "Prince Faster",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/prince-faster.jpg",
+        "weekday": 5
+      },
+      {
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
+        "startTime": "21:00",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "weekday": 5
+      }
+    ],
+    "6": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "08:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 6
+      },
+      {
+        "name": "Saturday Vibes",
+        "speaker": "Gianpaolo Castaldo",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/ubik.jpeg",
+        "weekday": 6
+      },
+      {
+        "name": "Born to Run",
+        "speaker": "Federica Baglioni",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Federica-Baglioni.jpg",
+        "weekday": 6
+      },
+      {
+        "name": "Magu e l’ombra del vecchio",
+        "speaker": "Mario Tagliaferri",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+        "weekday": 6
+      },
+      {
+        "name": "Il Rockaphone",
+        "speaker": "Livio Leone",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "weekday": 6
+      },
+      {
+        "name": "Jazztrain",
+        "speaker": "Francesco Sciarretta",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
+        "weekday": 6
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "22:00",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 6
+      }
+    ],
+    "7": [
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "00:00",
+        "endTime": "07:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 7
+      },
+      {
+        "name": "L'alba di Radio Elettrica",
+        "speaker": "Simone De Laura",
+        "startTime": "08:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "weekday": 7
+      },
+      {
+        "name": "Isterika",
+        "speaker": "Sira F. De Vanna",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sira-f-de-vanna.jpg",
+        "weekday": 7
+      },
+      {
+        "name": "G Pills – Anche Le Formiche Pizzicano…",
+        "speaker": "Greta e Fiorenza",
+        "startTime": "15:00",
+        "endTime": "15:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gpills.jpg",
+        "weekday": 7
+      },
+      {
+        "name": "Peace and Noise",
+        "speaker": "Stefano Strina",
+        "startTime": "16:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "weekday": 7
+      },
+      {
+        "name": "Jazztrain",
+        "speaker": "Francesco Sciarretta",
+        "startTime": "17:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
+        "weekday": 7
+      },
+      {
+        "name": "Oltre il giardino",
+        "speaker": "Marco del Vecchio",
+        "startTime": "18:00",
+        "endTime": "19:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-del-vecchio.jpeg",
+        "weekday": 7
+      },
+      {
+        "name": "Manholes",
+        "speaker": "Ubik",
+        "startTime": "20:00",
+        "endTime": "21:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/ubik.jpeg",
+        "weekday": 7
+      },
+      {
+        "name": "Trans Europe Express ",
+        "speaker": "Paolo Tocco",
+        "startTime": "22:00",
+        "endTime": "22:29",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "weekday": 7
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "22:30",
+        "endTime": "23:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "weekday": 7
+      }
+    ]
+  },
+  "shows": [
+    {
+      "name": "Born to Run",
+      "speaker": "Federica Baglioni",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Federica-Baglioni.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/federica-baglioni-born-to-run"
+    },
+    {
+      "name": "G Pills – Anche Le Formiche Pizzicano…",
+      "speaker": "Greta e Fiorenza",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gpills.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/g-pills-con-greta-panettieri-e-fiorenza-gherardi-de-candei"
+    },
+    {
+      "name": "A Ruota Libera",
+      "speaker": "Gianluca",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/gianluca-mancini/"
+    },
+    {
+      "name": "Non so rispondere",
+      "speaker": "Jonathan Giustini",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/non-so-rispondere.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/jonathan-giustini-non-so-rispondere/"
+    },
+    {
+      "name": "Wanderlust",
+      "speaker": "Jimbo",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/jimbo-wandelust/"
+    },
+    {
+      "name": "Il Giardino delle Delizie",
+      "speaker": "Rossella Esse",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/rossella-esse-il-giardino-delle-delizie/"
+    },
+    {
+      "name": "Allenamento al Buonumore",
+      "speaker": "Agnese Valle",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/agnese-valle.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/agnese-valle-allenamento-al-buonumore/"
+    },
+    {
+      "name": "Caffè sospeso",
+      "speaker": "Giampiero Wallnofer",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/giampiero-wallnofer.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/caffe-sospeso-giampiero-wallnofer/"
+    },
+    {
+      "name": "Manholes",
+      "speaker": "Ubik",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/ubik.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/il-cantastorie-gianpaolo-castaldo/"
+    },
+    {
+      "name": "Grazie per l'immenso contributo nel corso di queste ore",
+      "speaker": "Gustavo Tagliaferri",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/grazie-per-limmenso-contributo-nel-corso-di-queste-ore-gustavo-tagliaferri/"
+    },
+    {
+      "name": "Isterika",
+      "speaker": "Sira F. De Vanna",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sira-f-de-vanna.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/isterika-sira-f-de-vanna/"
+    },
+    {
+      "name": "Oltre il giardino",
+      "speaker": "Marco del Vecchio",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-del-vecchio.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/oltre-il-giardino-marco-del-vecchio/"
+    },
+    {
+      "name": "Play it louder",
+      "speaker": "Simone De Laura",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/play-it-louder-simone-de-laura/"
+    },
+    {
+      "name": "Giramondo",
+      "speaker": "Marta Squicciarini",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marta-giramondo.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/giramondo-marta-squicciarini/"
+    },
+    {
+      "name": "Non so rispondere",
+      "speaker": "Jonathan Giustini",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jonathan-giustini.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/bufalo-bill-jonathan-giustini/"
+    },
+    {
+      "name": "Peace and Noise",
+      "speaker": "Stefano Strina",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/stefano-strina-peace-and-noise/"
+    },
+    {
+      "name": "To Tape",
+      "speaker": "Renato Failla",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/renato-failla-to-tape/"
+    },
+    {
+      "name": "Il Rockaphone",
+      "speaker": "Livio Leone",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/livio-leone-il-rockaphone/"
+    },
+    {
+      "name": "Trans Europe Express",
+      "speaker": "Paolo Tocco",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/paolo-tocco-trans-europe-express/"
+    },
+    {
+      "name": "Hard Times",
+      "speaker": "Andrea Ciccomartino",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/andrea-ciccomartino-hard-times/"
+    },
+    {
+      "name": "Jazz e oltre",
+      "speaker": "Francesco Sciarretta",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
+    },
+    {
+      "name": "MaGu e l'ombra del vecchio",
+      "speaker": "Mario Tagliaferri",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/mario-tagliaferri/"
+    },
+    {
+      "name": "Resistenze Sonore",
+      "speaker": "Alex Sabetti",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/alex-sabetti-resistenze-sonore/"
+    },
+    {
+      "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
+      "speaker": "Francesco Di Giugno",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/walkman-francesco-di-giugno/"
+    },
+    {
+      "name": "The summer of love",
+      "speaker": "Marco Cavalieri",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/the-summer-of-love-marco-cavalieri/"
+    },
+    {
+      "name": "Letture Metropolitane",
+      "speaker": "Giovanni Villani & Flavia Capone",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/letture-metropolitane.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/letture-metropolitane-flavia-capone-giovanni-villani/"
+    },
+    {
+      "name": "Dark Entries (E Uscite Di Sicurezza)",
+      "speaker": "Elisabetta Laurini",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/dark-entries-elisabetta-laurini/"
+    },
+    {
+      "name": "Morning Shower",
+      "speaker": "Claudia McDowell",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/morning-shower-claudia-mcdowell/"
+    },
+    {
+      "name": "it's NOT only rock & roll",
+      "speaker": "Annarella",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/annarella.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/annarella-it-s-not-only-rock-n-roll/"
+    },
+    {
+      "name": "Saturday Vibes",
+      "speaker": "Gianpaolo Castaldo",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gianpaolo-castaldo.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/gianpalo-castaldo-saturday-vibes/"
+    },
+    {
+      "name": "You are what you listen to",
+      "speaker": "Maura Cenciarelli",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/maura-cenciarelli.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/maura-cenciarelli-you-are-what-you-listen-to/"
+    },
+    {
+      "name": "Prince faster magazine",
+      "speaker": "Prince Faster",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/prince-faster.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/prince-faster-magazine/"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Prince Faster",
+      "desc": "Si auto-definisce un semplice appassionato di musica e di radio, un hobbysta del microfono.",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/prince-faster.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/prince-faster"
+    },
+    {
+      "name": "Gianpaolo Castaldo",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gianpaolo-castaldo.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/gianpaolo-castaldo/"
+    },
+    {
+      "name": "Maura Cenciarelli",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/maura-cenciarelli.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/maura-cenciarelli/"
+    },
+    {
+      "name": "Elisabetta Laurini",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/elisabetta-laurini.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/elisabetta-laurini/"
+    },
+    {
+      "name": "Claudia McDowell",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/claudia-mcdowell/"
+    },
+    {
+      "name": "Marco Cavalieri",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/marco-cavalieri.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/marco-cavalieri/"
+    },
+    {
+      "name": "Annarella",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/annarella.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/annarella/"
+    },
+    {
+      "name": "Francesco Di Giugno",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/francesco-di-giugno.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/francesco-di-giugno/"
+    },
+    {
+      "name": "Massimo Garofalo",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/massimo-garofalo.png",
+      "contentURL": "https://www.radioelettrica.it/members/massimo-garofalo/"
+    },
+    {
+      "name": "Alessandro Corigliano",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/alessandro-corigliano-omone.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/alessandro-corigliano/"
+    },
+    {
+      "name": "Flavia Capone",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/flavia-capone.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/flavia-capone/"
+    },
+    {
+      "name": "Giovanni Villani",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/giovanni-villani.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/giovanni-villani/"
+    },
+    {
+      "name": "Gabriele Niola",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gabriele-niola.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/gabriele-niola/"
+    },
+    {
+      "name": "Sara F. De Vanna",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/sira-f-de-vanna.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/sira-f-de-vanna/"
+    },
+    {
+      "name": "Jonathan Giustini",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/jonathan-giustini.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/jonathan-giustini/"
+    },
+    {
+      "name": "Rossella Esse",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/rossella-esse.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/rossella-esse/"
+    },
+    {
+      "name": "Jimbo",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/jimbo.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/jimbo/"
+    },
+    {
+      "name": "Marta Squicciarini",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/marta-giramondo.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/marta-squicciarini/"
+    },
+    {
+      "name": "Marco del Vecchio",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/marco-del-vecchio.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/marco-del-vecchio/"
+    },
+    {
+      "name": "Giampiero Wallnofer",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/giampiero-wallnofer.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/giampiero-wallnofer/"
+    },
+    {
+      "name": "Agnese Valle",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/agnese-valle.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/agnese-valle/"
+    },
+    {
+      "name": "Mario Tagliaferri",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/mario-tagliaferri.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/mario-tagliaferri/"
+    },
+    {
+      "name": "Simone Rock",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/simone-de-laura.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/simone-de-laura/"
+    },
+    {
+      "name": "Gustavo Tagliaferri",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gustavo-tagliaferri.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/gustavo-tagliaferri/"
+    },
+    {
+      "name": "Gianluca Mancini",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gianluca-mancini.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/gianluca-mancini/"
+    },
+    {
+      "name": "Federica Baglioni",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/Federica-Baglioni.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/federica-baglioni/"
+    },
+    {
+      "name": "Alex Sabetti",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/alex-sabetti.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/alex-sabetti/"
+    },
+    {
+      "name": "Stefano Strina",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/stefano-strina/"
+    },
+    {
+      "name": "Renato Failla",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/renato-failla/"
+    },
+    {
+      "name": "Livio Leone",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/livio-leone/"
+    },
+    {
+      "name": "Francesco Sciarretta",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/sciarretta.jpeg",
+      "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
+    },
+    {
+      "name": "Greta e Fiorenza",
+      "desc": "Cantante, compositrice, autrice e ricercatrice in ambito musicale",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gpills.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/greta-panettieri-e-fiorenza-gherardi-de-candei/"
+    },
+    {
+      "name": "Ubik",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/ubik.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/ubik/"
+    },
+    {
+      "name": "Paolo Tocco",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/paolo-tocco/"
+    },
+    {
+      "name": "Andrea Ciccomartino",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "contentURL": "https://www.radioelettrica.it/members/andrea-ciccomartino/"
+    }
+  ],
+  "shopItems": [
+    {
+      "name": "Abbigliamento",
+      "localizedKey": "home_shop_clothing",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/clothing.jpg",
+      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/abbigliamento"
+    },
+    {
+      "name": "Accessori",
+      "localizedKey": "home_shop_accessories",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/accesories.jpg",
+      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
+    },
+    {
+      "name": "Arte e cultura",
+      "localizedKey": "home_shop_art_culture",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/art_culture.jpeg",
+      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/arte-e-cultura"
+    },
+    {
+      "name": "Linea disturbiart",
+      "localizedKey": "home_shop_disturbiart",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/disturbiart.jpg",
+      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/disturbiart"
+    }
+  ]
+}
