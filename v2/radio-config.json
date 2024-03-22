@@ -137,7 +137,7 @@
         "speaker": "Gustavo Tagliaferri",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gustavo-tagliaferri.jpg",
         "weekday": 3
       },
       {
@@ -161,7 +161,7 @@
         "speaker": "Alex Sabetti",
         "startTime": "21:00",
         "endTime": "21:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alex-sabetti.jpg",
         "weekday": 3
       },
       {
@@ -287,7 +287,7 @@
         "speaker": "Gianpaolo Castaldo",
         "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/ubik.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gianpaolo-castaldo.jpg",
         "weekday": 6
       },
       {
@@ -430,7 +430,7 @@
     {
       "name": "A Ruota Libera",
       "speaker": "Gianluca",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.jpg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.png",
       "contentURL": "https://www.radioelettrica.it/shows/gianluca-mancini/"
     },
     {
@@ -472,7 +472,7 @@
     {
       "name": "Grazie per l'immenso contributo nel corso di queste ore",
       "speaker": "Gustavo Tagliaferri",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gustavo-tagliaferri.jpg",
       "contentURL": "https://www.radioelettrica.it/shows/grazie-per-limmenso-contributo-nel-corso-di-queste-ore-gustavo-tagliaferri/"
     },
     {
@@ -508,7 +508,7 @@
     {
       "name": "Peace and Noise",
       "speaker": "Stefano Strina",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
       "contentURL": "https://www.radioelettrica.it/shows/stefano-strina-peace-and-noise/"
     },
     {
@@ -520,19 +520,19 @@
     {
       "name": "Il Rockaphone",
       "speaker": "Livio Leone",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/livio-leone.png",
       "contentURL": "https://www.radioelettrica.it/shows/livio-leone-il-rockaphone/"
     },
     {
       "name": "Trans Europe Express",
       "speaker": "Paolo Tocco",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/trans-europe-express.ong",
       "contentURL": "https://www.radioelettrica.it/shows/paolo-tocco-trans-europe-express/"
     },
     {
       "name": "Hard Times",
       "speaker": "Andrea Ciccomartino",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/andrea-ciccomartino.png",
       "contentURL": "https://www.radioelettrica.it/shows/andrea-ciccomartino-hard-times/"
     },
     {
@@ -550,7 +550,7 @@
     {
       "name": "Resistenze Sonore",
       "speaker": "Alex Sabetti",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alex-sabetti.png",
       "contentURL": "https://www.radioelettrica.it/shows/alex-sabetti-resistenze-sonore/"
     },
     {
@@ -580,7 +580,7 @@
     {
       "name": "Morning Shower",
       "speaker": "Claudia McDowell",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/claudia-mcdowell.png",
       "contentURL": "https://www.radioelettrica.it/shows/morning-shower-claudia-mcdowell/"
     },
     {
@@ -636,7 +636,7 @@
     {
       "name": "Claudia McDowell",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/claudia-mcdowell.png",
       "contentURL": "https://www.radioelettrica.it/members/claudia-mcdowell/"
     },
     {
@@ -774,7 +774,7 @@
     {
       "name": "Stefano Strina",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/stefano-strina.png",
       "contentURL": "https://www.radioelettrica.it/members/stefano-strina/"
     },
     {
@@ -786,7 +786,7 @@
     {
       "name": "Livio Leone",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/livio-leone-png",
       "contentURL": "https://www.radioelettrica.it/members/livio-leone/"
     },
     {
@@ -810,13 +810,13 @@
     {
       "name": "Paolo Tocco",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/paolo-tocco.png",
       "contentURL": "https://www.radioelettrica.it/members/paolo-tocco/"
     },
     {
       "name": "Andrea Ciccomartino",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/andrea-ciccomartino.png",
       "contentURL": "https://www.radioelettrica.it/members/andrea-ciccomartino/"
     }
   ],
