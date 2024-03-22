@@ -1,166 +1,67 @@
 {
   "news": [
     {
-      "title": "Elettrica’s Highlights (Gennaio 2024)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono due classifiche: gli highlights delle uscite dell’ultimo mese e brani del passato da riscoprire.",
-      "contentUrl": "https://www.radioelettrica.it/music/elettrica-highlights-gennaio-2024/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2024-01-02"
-    },
-    {
-      "title": "Elettrica’s Highlights (Dicembre 2023)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite dell’ultimo mese (in rigoroso ordine sparso).",
-      "contentUrl": "https://www.radioelettrica.it/music/elettrica-highlights-dicembre-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-11-01"
-    },
-    {
-      "title": "Elettrica’s Highlights (Novembre 2023)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite dell’ultimo mese (in rigoroso ordine sparso).",
-      "contentUrl": "https://www.radioelettrica.it/music/elettrica-highlights-novembre-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-11-01"
-    },
-    {
-      "title": "MUSICOLOGICA DI ANGELA FORIN",
-      "message": "Che cos’è la musica? Come nasce uno stile musicale? Che influenza ha la musica sugli esseri umani? Dal 16 novembre, alle 10.30 all’interno del programma You Are What You listen To di Maura Cenciarelli, Angela Forin risponderà a questa e altre domande all’interno della rubrica Musicologica.",
-      "contentUrl": "https://www.radioelettrica.it/news/radio-elettrica-presenta-musicologica-di-angela-forin/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/11/MUSICOLOGICA.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-11-01"
-    },
-    {
-      "title": "Elettrica’s Highlights (Ottobre 2023)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite dell’ultimo mese (in rigoroso ordine sparso).",
-      "contentUrl": "https://www.radioelettrica.it/music/elettrica-highlights-ottobre-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-10-01"
-    },
-    {
-      "title": "DEUS: RECENSIONE DEL CONCERTO DI ROMA, CAVEA DELL’AUDITORIUM, 23 LUGLIO 2023",
-      "message": "A dispetto delle temperature proibitive, i dEUS hanno trasformato quello che doveva essere un live da seguire tranquilli in poltrona in un tripudio incendiario di suoni ed emozioni.",
-      "contentUrl": "https://www.radioelettrica.it/music/deus-recensione-del-concerto-roma-cavea-dellauditorium-23-luglio-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/07/deus-roma-23-luglio-2023-1024x391.jpg",
-      "author": "Manuel Nash",
-      "category": "News",
-      "postDate": "2023-07-24"
-    },
-    {
-      "title": "DORTHIA COTTRELL: RECENSIONE DI DEATH FOLK COUNTRY",
-      "message": "Alternando ballate di morte ed amore, dense come acqua di palude, le tracce di Death Folk Country scorrono l’una nell’altra, come pigri torrenti nella notte in bianco e nero. Ecco la recensione del nuovo album di Dorthia Cottrell.",
-      "contentUrl": "https://www.radioelettrica.it/music/dorthia-cottrell-recensione-di-death-folk-country/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/07/Dorthia-Cottrell-Death-Folk-Country-recensione-1024x1024.jpg",
-      "author": "Manuel Nash",
-      "category": "News",
-      "postDate": "2023-07-14"
-    },
-    {
-      "title": "DUDU TASSA & JONNY GREENWOOD: RECENSIONE DI JARAK QARIBAK",
-      "message": "Dudu Tassa & Jonny Greenwood – con il nuovo disco Jarak Qaribak – sfoggiano un’eleganza innata.",
-      "contentUrl": "https://www.radioelettrica.it/music/dudu-tassa-jonny-greenwood-recensione-di-jarak-qaribak/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/07/Dudu-Tassa-Jonny-Greenwood-recensione-di-Jarak-Qaribak-1024x1024.jpg",
-      "author": "Manuel Nash",
-      "category": "News",
-      "postDate": "2023-07-07"
-    },
-    {
-      "title": "INTERPOL: RECENSIONE CONCERTO DI ROMA, 28 GIUGNO 2023",
-      "message": "Il concerto romano conferma gli Interpol come una band che s’esprime al meglio sul palco. Ecco com’è andato il concerto di Roma.",
-      "contentUrl": "https://www.radioelettrica.it/music/interpol-recensione-concerto-di-roma-28-giugno-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/07/Interpol_band-1024x768.jpeg",
-      "author": "Federica Baglioni",
-      "category": "News",
-      "postDate": "2023-07-01"
-    },
-    {
-      "title": "Elettrica’s Highlights (Luglio 2023)",
-      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-luglio-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-06-02"
-    },
-    {
-      "title": "Elettrica’s Highlights (Giugno 2023)",
-      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-giugno-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2023/06/giradischi2.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-06-02"
-    },
-    {
-      "title": "Elettrica’s Highlights (Maggio 2023)",
-      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-maggio-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-05-02"
-    },
-    {
-      "title": "Elettrica’s Highlights (Aprile 2023)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso).",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-aprile-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-04-01"
-    },
-    {
-      "title": "Elettrica’s Highlights (Marzo 2023)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso).",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-marzo-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
-      "author": "Redazione",
-      "category": "News",
-      "postDate": "2023-03-04"
-    },
-    {
-      "title": "Elettrica’s Highlights (Febbraio 2023)",
-      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di febbraio 2023 Indaco – Kalì (Claudia McDowell) Van Morrison […]",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-febbraio-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
+      "title": "FRANK NEVER DIES IN CONCERTO",
+      "message": "RADIO ELETTRICA PRESENTA [NEW WAVE NIGHT #4]",
+      "contentUrl": "https://www.radioelettrica.it/eventi/frank-never-dies-in-concertoopening-act-lo-stigenew-wave-night-4-sabato-20-aprile-2024/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/frank-never-dies.jpeg",
       "author": "Admin",
       "category": "News",
-      "postDate": "2023-02-01"
+      "postDate": "2024-03-21"
     },
     {
-      "title": "Elettrica’s Highlights (Gennaio 2023)",
-      "message": "I dischi consigliati dai DJ di Radio Elettrica Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso). Ecco gli Highlights selezionati per la vostra/nostra playlist di gennaio 2023 Hotel Insomnia – Undulate (Claudia McDowell) The Smile […]",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-gennaio-2023/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
-      "author": "Admin",
+      "title": "LE RICETTE DELLA SIGNORA TOKU",
+      "message": "Qual è il senso dell’esistenza? La risposta si può intravedere in questo film poetico e commovente della regista giapponese Naomi Kawase, Le Ricette della Signora Toku.",
+      "contentUrl": "https://www.radioelettrica.it/cinema/le-ricette-della-signora-toku-alla-ricerca-del-senso-dellesistenza/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/Le-ricette-della-signora-Toku.jpeg",
+      "author": "Luisella Cicchetti",
       "category": "News",
-      "postDate": "2023-01-01"
+      "postDate": "2024-03-21"
     },
     {
-      "title": "Elettrica’s Highlights (Dicembre 2022)",
-      "message": "Brani noti e meno noti, successi annunciati e perle nascoste. I DJ di Radio Elettrica vi propongono gli Highlights delle uscite degli ultimi mesi (in rigoroso ordine sparso).",
-      "contentUrl": "https://www.radioelettrica.it/music/elettricas-highlights-dicembre-2022/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/06/highlights-1024x683.jpg",
-      "author": "Admin",
+      "title": "CADILLAC RECORDS: SE AMI IL BLUES QUESTO È IL FILM CHE FA PER TE",
+      "message": "Che il rock abbia attinto a piene mani nel Blues, è risaputo. Ma dove, come e quando tutto ha avuto inizio? Scopriamolo insieme.",
+      "contentUrl": "https://www.radioelettrica.it/cinema/cadillac-records-se-ami-il-blues-questo-e-il-film-che-fa-per-te/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/cadillac-records-immagine-sfondo-con-scritta-low-1024x489.jpg",
+      "author": "Nello Annunziata",
       "category": "News",
-      "postDate": "2023-01-01"
+      "postDate": "2024-03-19"
     },
     {
-      "title": "Il ritorno in Italia dei Cure (Recensione Concerto)",
-      "message": "3 anni dopo l’ultimo tour nelle arene europee ed italiane, The Cure sono tornati in Italia con un nuovo spettacolo e un album di prossima pubblicazione. Federica Baglioni ci racconta com’è andata (spoiler: c’è anche la tracklist e il video integrale del concerto!)",
-      "contentUrl": "https://www.radioelettrica.it/music/il-ritorno-in-italia-dei-cure-recensione-dei-concerto-di-firenze-1-novembre-2022/",
-      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2022/11/concierto-de-the-cure-en-florencia-tour-euro-22-1638873762.5517988.2560x1440-1024x576.jpg",
-      "author": "Federica Baglioni",
+      "title": "SURREALISMO A DESENZANO: IL SOGNO DIVENTA REALTÀ",
+      "message": "60 opere surrealiste in mostra a Desenzano del Garda (Brescia): un excursus attraverso le ricerche legate al sogno, all’inconscio e alla follia.",
+      "contentUrl": "https://www.radioelettrica.it/arte/surrealismo-a-desenzano-il-sogno-diventa-realta/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/surrealismo-1024x683.jpeg",
+      "author": "Massimo Garofalo",
       "category": "News",
-      "postDate": "2022-11-03"
+      "postDate": "2024-03-17"
+    },
+    {
+      "title": "BLAXPLOITATION: CINEMA E MUSICA FUNKY, SOUL, RHYTHM AND BLUES",
+      "message": "Consigli utili per avvicinarsi al genere cinematografico della Blaxplotation. Ecco 5 colonne sonore composte da grandi musicisti provenienti dalla black music prestati al grande schermo per creare l’atmosfera prefetta per le crime stories.",
+      "contentUrl": "https://www.radioelettrica.it/music/blaxploitation-cinema-e-musica-funky-soul-rhythm-and-blues-in-5-colonne-sonore-da-shaft-a-jackie-brown/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/pamblax-1024x576.jpg",
+      "author": "Giorgio Giovannini",
+      "category": "News",
+      "postDate": "2024-03-16"
+    },
+    {
+      "title": "THE SWIMMERS (LE NUOTATRICI), IL FILM CHE CI INVITA A SVEGLIARCI DAL TORPORE DI UN’ESISTENZA “NORMALE”",
+      "message": "Vi siete mai chiesti cosa spinga tante persone a lasciare la patria per intraprendere un pericoloso viaggio verso l’ignoto? La regista Sally El Hosaini ce lo racconta in Le Nuotatrici, film tratto da una storia vera.",
+      "contentUrl": "https://www.radioelettrica.it/cinema/the-swimmers-le-nuotatrici-il-film-che-ci-invita-a-svegliarci-dal-torpore-di-unesistenza-normale/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/The-Swimmers-Le-nuotatrici-1024x502.jpeg",
+      "author": "Luisella Cicchetti",
+      "category": "News",
+      "postDate": "2024-03-14"
+    },
+    {
+      "title": "QUASI FAMOSI: L’INCREDIBILE TOUR DI UNA ROCK BAND IMMAGINARIA",
+      "message": "Anche se la rock band degli Stillwater è frutto della fantasia di Cameroon Crowe (Non per soldi …ma per amore, Vanilla sky), la colonna sonora di questo film è reale e suona davvero bene.",
+      "contentUrl": "https://www.radioelettrica.it/cinema/quasi-famosi-lincredibile-tour-di-una-rock-band-immaginaria/",
+      "imageUrl": "https://www.radioelettrica.it/wp-content/uploads/2024/03/quasi-famosi-immagine-sfondo-con-scritta-2000-ridotto-1024x489.jpg",
+      "author": "Nello Annunziata",
+      "category": "News",
+      "postDate": "2024-03-12"
     }
   ]
 }
