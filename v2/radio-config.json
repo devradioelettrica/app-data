@@ -526,7 +526,7 @@
     {
       "name": "Trans Europe Express",
       "speaker": "Paolo Tocco",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/trans-europe-express.ong",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/trans-europe-express.png",
       "contentURL": "https://www.radioelettrica.it/shows/paolo-tocco-trans-europe-express/"
     },
     {
@@ -756,7 +756,7 @@
     {
       "name": "Gianluca Mancini",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gianluca-mancini.jpg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/a-ruota-libera.png",
       "contentURL": "https://www.radioelettrica.it/members/gianluca-mancini/"
     },
     {
@@ -786,7 +786,7 @@
     {
       "name": "Livio Leone",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/livio-leone-png",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/livio-leone.png",
       "contentURL": "https://www.radioelettrica.it/members/livio-leone/"
     },
     {
