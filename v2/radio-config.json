@@ -4,7 +4,7 @@
     "streamURL": "http://nr8.newradio.it:9562/stream2",
     "imageURL": "logo",
     "desc": "Radio Elettrica",
-    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità , senza steccati nè paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome Ã¨ Radio Elettrica."
+    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome Ã¨ Radio Elettrica."
   },
   "planning": {
     "1": [
@@ -75,11 +75,11 @@
         "weekday": 2
       },
       {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
+        "name": "Grazie per lâ€™immenso contributo nel corso di queste ore",
+        "speaker": "Gustavo Tagliaferri",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gustavo-tagliaferri.jpg",
         "weekday": 2
       },
       {
@@ -265,11 +265,11 @@
         "weekday": 5
       },
       {
-        "name": "Play it Louder",
-        "speaker": "Simone De Laura",
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "21:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 5
       }
     ],
