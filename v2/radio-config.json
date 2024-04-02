@@ -4,7 +4,7 @@
     "streamURL": "http://nr8.newradio.it:9562/stream2",
     "imageURL": "logo",
     "desc": "Radio Elettrica",
-    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome Ã¨ Radio Elettrica."
+    "longDesc": "Il 15 ottobre 2018 nasce una nuova web radio dedicata alla musica di qualità, senza steccati né paletti! In una fase di massima espansione tecnologica come questa, nasce una nuova radio tutta digitale: il suo nome è Radio Elettrica."
   },
   "planning": {
     "1": [
@@ -33,7 +33,7 @@
         "weekday": 1
       },
       {
-        "name": "Walkman â€“ Il Dispositivo Delle Subculture Giovanili",
+        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
         "speaker": "Francesco Di Giugno",
         "startTime": "15:00",
         "endTime": "17:59",
@@ -41,7 +41,7 @@
         "weekday": 1
       },
       {
-        "name": "Itâ€™s NOT Only Rock & Roll",
+        "name": "It’s NOT Only Rock & Roll",
         "speaker": "Annarella",
         "startTime": "18:00",
         "endTime": "20:59",
@@ -75,7 +75,7 @@
         "weekday": 2
       },
       {
-        "name": "Grazie per lâ€™immenso contributo nel corso di queste ore",
+        "name": "Grazie per l’immenso contributo nel corso di queste ore",
         "speaker": "Gustavo Tagliaferri",
         "startTime": "12:00",
         "endTime": "14:59",
@@ -103,7 +103,7 @@
         "speaker": "Renato Failla",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.png",
         "weekday": 2
       },
       {
@@ -133,7 +133,7 @@
         "weekday": 3
       },
       {
-        "name": "Grazie per lâ€™immenso contributo nel corso di queste ore",
+        "name": "Grazie per l’immenso contributo nel corso di queste ore",
         "speaker": "Gustavo Tagliaferri",
         "startTime": "12:00",
         "endTime": "14:59",
@@ -141,7 +141,7 @@
         "weekday": 3
       },
       {
-        "name": "Walkman â€“ Il Dispositivo Delle Subculture Giovanili",
+        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
         "speaker": "Francesco Di Giugno",
         "startTime": "15:00",
         "endTime": "17:59",
@@ -233,7 +233,7 @@
         "weekday": 5
       },
       {
-        "name": "CaffÃ¨ sospeso",
+        "name": "Caffè sospeso",
         "speaker": "Giampiero Wallnofer",
         "startTime": "09:00",
         "endTime": "11:59",
@@ -299,7 +299,7 @@
         "weekday": 6
       },
       {
-        "name": "Magu e lâ€™ombra del vecchio",
+        "name": "Magu e l’ombra del vecchio",
         "speaker": "Mario Tagliaferri",
         "startTime": "15:00",
         "endTime": "17:59",
@@ -357,7 +357,7 @@
         "weekday": 7
       },
       {
-        "name": "G Pills â€“ Anche Le Formiche Pizzicanoâ€¦",
+        "name": "G Pills – Anche Le Formiche Pizzicano…",
         "speaker": "Greta e Fiorenza",
         "startTime": "15:00",
         "endTime": "15:59",
@@ -422,7 +422,7 @@
       "contentURL": "https://www.radioelettrica.it/shows/federica-baglioni-born-to-run"
     },
     {
-      "name": "G Pills â€“ Anche Le Formiche Pizzicanoâ€¦",
+      "name": "G Pills – Anche Le Formiche Pizzicano…",
       "speaker": "Greta e Fiorenza",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gpills.jpg",
       "contentURL": "https://www.radioelettrica.it/shows/g-pills-con-greta-panettieri-e-fiorenza-gherardi-de-candei"
@@ -458,7 +458,7 @@
       "contentURL": "https://www.radioelettrica.it/shows/agnese-valle-allenamento-al-buonumore/"
     },
     {
-      "name": "CaffÃ¨ sospeso",
+      "name": "Caffè sospeso",
       "speaker": "Giampiero Wallnofer",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/giampiero-wallnofer.jpg",
       "contentURL": "https://www.radioelettrica.it/shows/caffe-sospeso-giampiero-wallnofer/"
@@ -554,7 +554,7 @@
       "contentURL": "https://www.radioelettrica.it/shows/alex-sabetti-resistenze-sonore/"
     },
     {
-      "name": "Walkman â€“ Il Dispositivo Delle Subculture Giovanili",
+      "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
       "speaker": "Francesco Di Giugno",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
       "contentURL": "https://www.radioelettrica.it/shows/walkman-francesco-di-giugno/"
@@ -780,7 +780,7 @@
     {
       "name": "Renato Failla",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/speaker_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/to-tape.png",
       "contentURL": "https://www.radioelettrica.it/members/renato-failla/"
     },
     {
