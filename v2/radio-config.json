@@ -17,7 +17,7 @@
         "weekday": 1
       },
       {
-        "name": "Morning Shower",
+        "name": "Morning Show(er)",
         "speaker": "Claudia McDowell",
         "startTime": "09:00",
         "endTime": "11:59",
@@ -215,11 +215,11 @@
         "weekday": 4
       },
       {
-        "name": "Play it Louder",
-        "speaker": "Simone De Laura",
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "21:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 4
       }
     ],
@@ -265,11 +265,11 @@
         "weekday": 5
       },
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
         "startTime": "21:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
         "weekday": 5
       }
     ],
@@ -514,7 +514,7 @@
     {
       "name": "To Tape",
       "speaker": "Renato Failla",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.jpeg",
       "contentURL": "https://www.radioelettrica.it/shows/renato-failla-to-tape/"
     },
     {
