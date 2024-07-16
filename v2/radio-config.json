@@ -75,11 +75,11 @@
         "weekday": 2
       },
       {
-        "name": "Grazie per l’immenso contributo nel corso di queste ore",
-        "speaker": "Gustavo Tagliaferri",
+        "name": "Parallel Lines",
+        "speaker": "Giuseppe Bellobuono",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gustavo-tagliaferri.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
         "weekday": 2
       },
       {
@@ -554,6 +554,12 @@
       "contentURL": "https://www.radioelettrica.it/shows/alex-sabetti-resistenze-sonore/"
     },
     {
+      "name": "Parallel Lines",
+      "speaker": "Giuseppe Bellobuono",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/giuseppe-bellobuono-parallel-lines/"
+    },
+    {
       "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
       "speaker": "Francesco Di Giugno",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
@@ -818,6 +824,12 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/andrea-ciccomartino.png",
       "contentURL": "https://www.radioelettrica.it/members/andrea-ciccomartino/"
+    },
+    {
+      "name": "Giuseppe Bellobuono",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/andrea-ciccomartino.png",
+      "contentURL": "https://www.radioelettrica.it/members/giuseppe-bellobuono/"
     }
   ],
   "shopItems": [
