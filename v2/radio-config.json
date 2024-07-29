@@ -9,7 +9,7 @@
   "planning": {
     "1": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -19,7 +19,7 @@
     ],
     "2": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -29,7 +29,7 @@
     ],
     "3": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -39,7 +39,7 @@
     ],
     "4": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -49,7 +49,7 @@
     ],
     "5": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -59,7 +59,7 @@
     ],
     "6": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -69,7 +69,7 @@
     ],
     "7": [
       {
-        "name": "Playlist Estate 2024",
+        "name": "Playlist Agosto 2024",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "23:59",
@@ -80,7 +80,7 @@
   },
   "shows": [
     {
-      "name": "Playlist Estate 2024",
+      "name": "Playlist Agosto 2024",
       "speaker": "Radio Elettrica",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
       "contentURL": "https://www.radioelettrica.it/shows/playlist-estate-2024/"
