@@ -49,11 +49,11 @@
         "weekday": 1
       },
       {
-        "name": "Non so rispondere",
-        "speaker": "Jonathan Giustini",
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "21:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/non-so-rispondere.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 1
       }
     ],
