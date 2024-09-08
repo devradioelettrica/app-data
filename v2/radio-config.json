@@ -17,11 +17,11 @@
         "weekday": 1
       },
       {
-        "name": "Parallel Lines",
-        "speaker": "Giuseppe Bellobuono",
+        "name": "Morning Show(er)",
+        "speaker": "Claudia McDowell",
         "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/claudia-mcdowell.png",
         "weekday": 1
       },
       {
@@ -41,11 +41,11 @@
         "weekday": 1
       },
       {
-        "name": "Manuel Nash",
-        "speaker": "Manuel Nash",
+        "name": "It’s NOT Only Rock & Roll",
+        "speaker": "Annarella",
         "startTime": "18:00",
         "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/annarella.jpg",
         "weekday": 1
       },
       {
@@ -83,11 +83,11 @@
         "weekday": 2
       },
       {
-        "name": "We Can Work It Out",
-        "speaker": "Raffaella Ria",
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Raffaella-Lia.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
         "weekday": 2
       },
       {
@@ -117,11 +117,11 @@
         "weekday": 3
       },
       {
-        "name": "You Are What You Listen To",
-        "speaker": "Maura Cenciarelli",
+        "name": "Letture Metropolitane",
+        "speaker": "Giovanni Villani & Flavia Capone",
         "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/maura-cenciarelli.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/letture-metropolitane.jpg",
         "weekday": 3
       },
       {
@@ -183,11 +183,11 @@
         "weekday": 4
       },
       {
-        "name": "Il Giardino delle Delizie",
-        "speaker": "Rossella Esse",
+        "name": "LaCama",
+        "speaker": "LaCama",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
         "weekday": 4
       },
       {
@@ -267,11 +267,11 @@
         "weekday": 6
       },
       {
-        "name": "Saturday Morning",
-        "speaker": "Francesco Di Pietro e Giuseppe Bellobuono",
+        "name": "Saturday Vibes",
+        "speaker": "Gianpaolo Castaldo",
         "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gianpaolo-castaldo.jpg",
         "weekday": 6
       },
       {
@@ -291,25 +291,17 @@
         "weekday": 6
       },
       {
-        "name": "Eclettica",
-        "speaker": "Milù",
+        "name": "Il Rockaphone",
+        "speaker": "Livio Leone",
         "startTime": "18:00",
         "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
-        "weekday": 6
-      },
-      {
-        "name": "Jazztrain",
-        "speaker": "Francesco Sciarretta",
-        "startTime": "21:00",
-        "endTime": "21:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/livio-leone.png",
         "weekday": 6
       },
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "22:00",
+        "startTime": "21:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 6
@@ -349,33 +341,17 @@
         "weekday": 7
       },
       {
-        "name": "Peace and Noise",
-        "speaker": "Stefano Strina",
-        "startTime": "18:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
-        "weekday": 7
-      },
-      {
-        "name": "Jazztrain",
-        "speaker": "Francesco Sciarretta",
-        "startTime": "17:00",
-        "endTime": "19:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
-        "weekday": 7
-      },
-      {
         "name": "To Tape",
         "speaker": "Renato Failla",
         "startTime": "18:00",
-        "endTime": "19:59",
+        "endTime": "18:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.png",
         "weekday": 7
       },
       {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "20:00",
+        "startTime": "19:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 7
