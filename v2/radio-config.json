@@ -49,9 +49,17 @@
         "weekday": 1
       },
       {
+        "name": "Take Time / Bufalo Bill",
+        "speaker": "Alternanza: Sergio Ruffini / Jonathan Giustini",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-lunedi.png",
+        "weekday": 1
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 1
@@ -99,9 +107,17 @@
         "weekday": 2
       },
       {
+        "name": "You Are What You Listen To / Trend Topics",
+        "speaker": "Alternanza: Maura Cenciarelli / Massimo Garofalo",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-martedi.png",
+        "weekday": 2
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 2
@@ -149,9 +165,17 @@
         "weekday": 3
       },
       {
+        "name": "Resistenze Sonore / Up To Eleven",
+        "speaker": "Alternanza: Alex Sabetti / Stax",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-mercoledì.png",
+        "weekday": 3
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 3
@@ -249,9 +273,17 @@
         "weekday": 5
       },
       {
+        "name": "Korolec / La Signora Omicidi",
+        "speaker": "Alternanza: Francesco Di Pietro / Anna Mancini",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-venerdi.png",
+        "weekday": 5
+      },
+      {
         "name": "Play it Louder",
         "speaker": "Simone De Laura",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
         "weekday": 5
@@ -299,9 +331,25 @@
         "weekday": 6
       },
       {
+        "name": "Manholes",
+        "speaker": "Ubik",
+        "startTime": "20:00",
+        "endTime": "21:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/ubik.jpeg",
+        "weekday": 6
+      },
+      {
+        "name": "Peace and Noise",
+        "speaker": "Stefano Strina",
+        "startTime": "2:00",
+        "endTime": "12:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
+        "weekday": 6
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 6
@@ -349,9 +397,25 @@
         "weekday": 7
       },
       {
+        "name": "Oltre il giardino",
+        "speaker": "Marco del Vecchio",
+        "startTime": "19:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-del-vecchio.jpeg",
+        "weekday": 7
+      },
+      {
+        "name": "G Pills – Anche Le Formiche Pizzicano…",
+        "speaker": "Greta e Fiorenza",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gpills.jpg",
+        "weekday": 7
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "19:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 7
@@ -359,12 +423,6 @@
     ]
   },
   "shows": [
-    {
-      "name": "Playlist Agosto 2024",
-      "speaker": "Radio Elettrica",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
-      "contentURL": "https://www.radioelettrica.it/shows/playlist-estate-2024/"
-    },
     {
       "name": "Born to Run",
       "speaker": "Federica Baglioni",
@@ -780,6 +838,54 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/Giuseppe-Bellobuono.jpg",
       "contentURL": "https://www.radioelettrica.it/members/giuseppe-bellobuono/"
+    },
+    {
+      "name": "Milù",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/Milu.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/Milu/"
+    },
+    {
+      "name": "Sergio Ruffini",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/sergio-ruffini.png",
+      "contentURL": "https://www.radioelettrica.it/members/sergio-ruffini/"
+    },
+    {
+      "name": "Anna Mancini",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/anna-mancini.png",
+      "contentURL": "https://www.radioelettrica.it/members/anna-mancini/"
+    },
+    {
+      "name": "Francesca 'LaCama'",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/la-cama.png",
+      "contentURL": "https://www.radioelettrica.it/members/francesca-lacama-camatari/"
+    },
+    {
+      "name": "Raffaella Ria",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/raffaella-ria.png",
+      "contentURL": "https://www.radioelettrica.it/members/raffaella-ria/"
+    },
+    {
+      "name": "Stax",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/stax.png",
+      "contentURL": "https://www.radioelettrica.it/members/stax/"
+    },
+    {
+      "name": "Manuel Nash",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/manuel.png",
+      "contentURL": "https://www.radioelettrica.it/members/manuel-nash/"
+    },
+    {
+      "name": "Francesco Di Pietro",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/francesco-di-pietro.png",
+      "contentURL": "https://www.radioelettrica.it/members/francesco-di-pietro/"
     }
   ],
   "shopItems": [
