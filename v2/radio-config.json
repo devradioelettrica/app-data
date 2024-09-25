@@ -223,9 +223,17 @@
         "weekday": 4
       },
       {
+        "name": "Play it Louder",
+        "speaker": "Simone De Laura",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "weekday": 4
+      },
+      {
         "name": "Replay",
         "speaker": "Radio Elettrica",
-        "startTime": "21:00",
+        "startTime": "23:00",
         "endTime": "23:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 4
@@ -281,11 +289,11 @@
         "weekday": 5
       },
       {
-        "name": "Play it Louder",
-        "speaker": "Simone De Laura",
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 5
       }
     ],
@@ -341,8 +349,8 @@
       {
         "name": "Peace and Noise",
         "speaker": "Stefano Strina",
-        "startTime": "2:00",
-        "endTime": "12:59",
+        "startTime": "22:00",
+        "endTime": "22:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
         "weekday": 6
       },
@@ -385,7 +393,7 @@
         "speaker": "Milù",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/milu.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Milu.png",
         "weekday": 7
       },
       {
@@ -408,8 +416,16 @@
         "name": "G Pills – Anche Le Formiche Pizzicano…",
         "speaker": "Greta e Fiorenza",
         "startTime": "21:00",
-        "endTime": "22:59",
+        "endTime": "21:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gpills.jpg",
+        "weekday": 7
+      },
+      {
+        "name": "Jazztrain",
+        "speaker": "Francesco Sciarretta",
+        "startTime": "22:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
         "weekday": 7
       },
       {
@@ -842,7 +858,7 @@
     {
       "name": "Milù",
       "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/Milu.jpg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/milu.png",
       "contentURL": "https://www.radioelettrica.it/members/Milu/"
     },
     {
