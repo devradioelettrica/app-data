@@ -207,11 +207,11 @@
         "weekday": 4
       },
       {
-        "name": "LaCama",
-        "speaker": "LaCama",
+        "name": "Il Giardino delle Delizie",
+        "speaker": "Rossella Esse",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/show_a_sorpresa.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.jpeg",
         "weekday": 4
       },
       {
@@ -460,7 +460,7 @@
     {
       "name": "Non so rispondere",
       "speaker": "Jonathan Giustini",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/non-so-rispondere.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/non-so-rispondere.png",
       "contentURL": "https://www.radioelettrica.it/shows/jonathan-giustini-non-so-rispondere/"
     },
     {
@@ -538,7 +538,7 @@
     {
       "name": "To Tape",
       "speaker": "Renato Failla",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.jpeg",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.png",
       "contentURL": "https://www.radioelettrica.it/shows/renato-failla-to-tape/"
     },
     {
@@ -608,7 +608,7 @@
       "contentURL": "https://www.radioelettrica.it/shows/dark-entries-elisabetta-laurini/"
     },
     {
-      "name": "Morning Shower",
+      "name": "Morning Show(er)",
       "speaker": "Claudia McDowell",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/claudia-mcdowell.png",
       "contentURL": "https://www.radioelettrica.it/shows/morning-shower-claudia-mcdowell/"
