@@ -584,6 +584,12 @@
       "contentURL": "https://www.radioelettrica.it/shows/giuseppe-bellobuono-parallel-lines/"
     },
     {
+      "name": "Trend Topics",
+      "speaker": "Massimo Garofalo",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/massimo-garofalo.png",
+      "contentURL": "https://www.radioelettrica.it/shows/trend-topics-massimo-garofalo/"
+    },
+    {
       "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
       "speaker": "Francesco Di Giugno",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
