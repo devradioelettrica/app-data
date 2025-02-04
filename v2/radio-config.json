@@ -75,61 +75,21 @@
         "weekday": 2
       },
       {
-        "name": "Allenamento al Buonumore",
-        "speaker": "Agnese Valle",
+        "name": "Ciao Simone",
+        "speaker": "Simone De Laura",
         "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/agnese-valle.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "Parallel Lines",
-        "speaker": "Giuseppe Bellobuono",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "Dark Entries (E Uscite Di Sicurezza)",
-        "speaker": "Elisabetta Laurini",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "A Ruota Libera",
-        "speaker": "Gianluca",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "You Are What You Listen To / Trend Topics",
-        "speaker": "Alternanza: Maura Cenciarelli / Massimo Garofalo",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-martedi.png",
-        "weekday": 2
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
         "weekday": 2
       }
     ],
     "3": [
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Ciao Simone",
+        "speaker": "Simone De Laura",
         "startTime": "00:00",
         "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
         "weekday": 3
       },
       {
