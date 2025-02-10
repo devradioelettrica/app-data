@@ -75,21 +75,61 @@
         "weekday": 2
       },
       {
-        "name": "Ciao Simone",
-        "speaker": "Simone De Laura",
+        "name": "Allenamento al Buonumore",
+        "speaker": "Agnese Valle",
         "startTime": "09:00",
+        "endTime": "11:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/agnese-valle.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "Parallel Lines",
+        "speaker": "Giuseppe Bellobuono",
+        "startTime": "12:00",
+        "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "Dark Entries (E Uscite Di Sicurezza)",
+        "speaker": "Elisabetta Laurini",
+        "startTime": "15:00",
+        "endTime": "17:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "A Ruota Libera",
+        "speaker": "Gianluca",
+        "startTime": "18:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.jpg",
+        "weekday": 2
+      },
+      {
+        "name": "You Are What You Listen To / Trend Topics",
+        "speaker": "Alternanza: Maura Cenciarelli / Massimo Garofalo",
+        "startTime": "21:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-martedi.png",
+        "weekday": 2
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
+        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 2
       }
     ],
     "3": [
       {
-        "name": "Ciao Simone",
-        "speaker": "Simone De Laura",
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "00:00",
         "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 3
       },
       {
@@ -183,11 +223,11 @@
         "weekday": 4
       },
       {
-        "name": "Play it Louder",
-        "speaker": "Simone De Laura",
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
         "weekday": 4
       },
       {
@@ -328,16 +368,16 @@
         "name": "Replay",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "07:59",
+        "endTime": "08:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 7
       },
       {
-        "name": "L'alba di Radio Elettrica",
-        "speaker": "Simone De Laura",
-        "startTime": "08:00",
+        "name": "We can work it out / Cataway",
+        "speaker": "Alternanza: Raffaella Ria / Manuel Nash",
+        "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-domenica.png",
         "weekday": 7
       },
       {
