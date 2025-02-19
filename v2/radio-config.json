@@ -925,13 +925,13 @@
     },
     {
       "name": "Eventi",
-      "localizedKey": "Eventi",
+      "localizedKey": "home_shop_art_culture",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/eventi.jpg",
       "contentURL": "https://www.radioelettrica.it/events-archive/"
     },
     {
       "name": "Sostienici",
-      "localizedKey": "Sostienici",
+      "localizedKey": "home_shop_disturbiart",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/donazioni.jpg",
       "contentURL": "https://www.radioelettrica.it/sostienici/"
     }
