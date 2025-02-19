@@ -924,16 +924,16 @@
       "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
     },
     {
-      "name": "Arte e cultura",
+      "name": "Eventi",
       "localizedKey": "home_shop_art_culture",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/art_culture.jpeg",
-      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/arte-e-cultura"
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/eventi.jpg",
+      "contentURL": "https://www.radioelettrica.it/events-archive/"
     },
     {
-      "name": "Linea disturbiart",
+      "name": "Sostienici",
       "localizedKey": "home_shop_disturbiart",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/disturbiart.jpg",
-      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/disturbiart"
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/donazioni.jpg",
+      "contentURL": "https://www.radioelettrica.it/sostienici/"
     }
   ]
 }
