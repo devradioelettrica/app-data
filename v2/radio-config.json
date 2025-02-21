@@ -165,11 +165,11 @@
         "weekday": 3
       },
       {
-        "name": "Resistenze Sonore / Up To Eleven",
-        "speaker": "Alternanza: Alex Sabetti / Stax",
+        "name": "Up To Eleven",
+        "speaker": "Stax",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-mercoledi.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/stax.png",
         "weekday": 3
       },
       {
@@ -211,7 +211,7 @@
         "speaker": "Rossella Esse",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.png",
         "weekday": 4
       },
       {
