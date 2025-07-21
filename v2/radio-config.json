@@ -9,431 +9,71 @@
   "planning": {
     "1": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 1
-      },
-      {
-        "name": "Morning Show(er)",
-        "speaker": "Claudia McDowell",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/claudia-mcdowell.png",
-        "weekday": 1
-      },
-      {
-        "name": "The Summer of Love",
-        "speaker": "Marco Cavalieri",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
-        "weekday": 1
-      },
-      {
-        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
-        "speaker": "Francesco Di Giugno",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
-        "weekday": 1
-      },
-      {
-        "name": "It’s NOT Only Rock & Roll",
-        "speaker": "Annarella",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/annarella.jpg",
-        "weekday": 1
-      },
-      {
-        "name": "Take Time / Bufalo Bill",
-        "speaker": "Alternanza: Sergio Ruffini / Jonathan Giustini",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-lunedi.png",
-        "weekday": 1
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 1
       }
     ],
     "2": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "Allenamento al Buonumore",
-        "speaker": "Agnese Valle",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/agnese-valle.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "Parallel Lines",
-        "speaker": "Giuseppe Bellobuono",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "Dark Entries (E Uscite Di Sicurezza)",
-        "speaker": "Elisabetta Laurini",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "A Ruota Libera",
-        "speaker": "Gianluca",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/a-ruota-libera.jpg",
-        "weekday": 2
-      },
-      {
-        "name": "You Are What You Listen To / Trend Topics",
-        "speaker": "Alternanza: Maura Cenciarelli / Massimo Garofalo",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-martedi.png",
-        "weekday": 2
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 2
       }
     ],
     "3": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 3
-      },
-      {
-        "name": "Letture Metropolitane",
-        "speaker": "Giovanni Villani & Flavia Capone",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/letture-metropolitane.jpg",
-        "weekday": 3
-      },
-      {
-        "name": "Grazie per l’immenso contributo nel corso di queste ore",
-        "speaker": "Gustavo Tagliaferri",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gustavo-tagliaferri.jpg",
-        "weekday": 3
-      },
-      {
-        "name": "Walkman – Il Dispositivo Delle Subculture Giovanili",
-        "speaker": "Francesco Di Giugno",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/francesco-di-giugno.jpg",
-        "weekday": 3
-      },
-      {
-        "name": "Prince Faster Magazine",
-        "speaker": "Prince Faster e Omone",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/prince-faster.jpg",
-        "weekday": 3
-      },
-      {
-        "name": "Up To Eleven",
-        "speaker": "Stax",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/stax.png",
-        "weekday": 3
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 3
       }
     ],
     "4": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 4
-      },
-      {
-        "name": "You Are What You Listen To",
-        "speaker": "Maura Cenciarelli",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/maura-cenciarelli.jpeg",
-        "weekday": 4
-      },
-      {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
-        "weekday": 4
-      },
-      {
-        "name": "Il Giardino delle Delizie",
-        "speaker": "Rossella Esse",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.png",
-        "weekday": 4
-      },
-      {
-        "name": "Hard Times",
-        "speaker": "Andrea Ciccomartino",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/andrea-ciccomartino.png",
-        "weekday": 4
-      },
-      {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
-        "weekday": 4
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 4
       }
     ],
     "5": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 5
-      },
-      {
-        "name": "Caffè sospeso",
-        "speaker": "Giampiero Wallnofer",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/giampiero-wallnofer.jpg",
-        "weekday": 5
-      },
-      {
-        "name": "The Summer of Love",
-        "speaker": "Marco Cavalieri",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
-        "weekday": 5
-      },
-      {
-        "name": "Dark Entries (E Uscite Di Sicurezza)",
-        "speaker": "Elisabetta Laurini",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/elisabetta-laurini.jpg",
-        "weekday": 5
-      },
-      {
-        "name": "Prince Faster Magazine",
-        "speaker": "Prince Faster",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/prince-faster.jpg",
-        "weekday": 5
-      },
-      {
-        "name": "Korolev / La Signora Omicidi",
-        "speaker": "Alternanza: Francesco Di Pietro / Anna Mancini",
-        "startTime": "21:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-venerdi.png",
-        "weekday": 5
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 5
       }
     ],
     "6": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 6
-      },
-      {
-        "name": "Saturday Vibes",
-        "speaker": "Gianpaolo Castaldo",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gianpaolo-castaldo.jpg",
-        "weekday": 6
-      },
-      {
-        "name": "Born to Run",
-        "speaker": "Federica Baglioni",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Federica-Baglioni.jpg",
-        "weekday": 6
-      },
-      {
-        "name": "Magu e l’ombra del vecchio",
-        "speaker": "Mario Tagliaferri",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
-        "weekday": 6
-      },
-      {
-        "name": "Il Rockaphone",
-        "speaker": "Livio Leone",
-        "startTime": "18:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/livio-leone.png",
-        "weekday": 6
-      },
-      {
-        "name": "Manholes",
-        "speaker": "Ubik",
-        "startTime": "20:00",
-        "endTime": "21:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/ubik.jpeg",
-        "weekday": 6
-      },
-      {
-        "name": "Peace and Noise",
-        "speaker": "Stefano Strina",
-        "startTime": "22:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
-        "weekday": 6
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 6
       }
     ],
     "7": [
       {
-        "name": "Replay",
+        "name": "Playlist Estate 2025",
         "speaker": "Radio Elettrica",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
-        "weekday": 7
-      },
-      {
-        "name": "We can work it out / Goodbye 20th Century",
-        "speaker": "Alternanza: Raffaella Ria / Manuel Nash",
-        "startTime": "09:00",
-        "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-domenica.png",
-        "weekday": 7
-      },
-      {
-        "name": "Isterika",
-        "speaker": "Sira F. De Vanna",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sira-f-de-vanna.jpg",
-        "weekday": 7
-      },
-      {
-        "name": "Eclettica",
-        "speaker": "Milù",
-        "startTime": "15:00",
-        "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Milu.png",
-        "weekday": 7
-      },
-      {
-        "name": "To Tape",
-        "speaker": "Renato Failla",
-        "startTime": "18:00",
-        "endTime": "18:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.png",
-        "weekday": 7
-      },
-      {
-        "name": "Oltre il giardino",
-        "speaker": "Marco del Vecchio",
-        "startTime": "19:00",
-        "endTime": "20:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-del-vecchio.jpeg",
-        "weekday": 7
-      },
-      {
-        "name": "G Pills – Anche Le Formiche Pizzicano…",
-        "speaker": "Greta e Fiorenza",
-        "startTime": "21:00",
-        "endTime": "21:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gpills.jpg",
-        "weekday": 7
-      },
-      {
-        "name": "Jazztrain",
-        "speaker": "Francesco Sciarretta",
-        "startTime": "22:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
-        "weekday": 7
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
-        "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/estate2024.png",
         "weekday": 7
       }
     ]
