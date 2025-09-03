@@ -498,12 +498,6 @@
       "contentURL": "https://www.radioelettrica.it/shows/oltre-il-giardino-marco-del-vecchio/"
     },
     {
-      "name": "Play it louder",
-      "speaker": "Simone De Laura",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/simone-de-laura.jpg",
-      "contentURL": "https://www.radioelettrica.it/shows/play-it-louder-simone-de-laura/"
-    },
-    {
       "name": "Giramondo",
       "speaker": "Marta Squicciarini",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marta-giramondo.jpg",
@@ -556,12 +550,6 @@
       "speaker": "Mario Tagliaferri",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
       "contentURL": "https://www.radioelettrica.it/shows/mario-tagliaferri/"
-    },
-    {
-      "name": "Resistenze Sonore",
-      "speaker": "Alex Sabetti",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alex-sabetti.png",
-      "contentURL": "https://www.radioelettrica.it/shows/alex-sabetti-resistenze-sonore/"
     },
     {
       "name": "Parallel Lines",
@@ -776,12 +764,6 @@
       "contentURL": "https://www.radioelettrica.it/members/mario-tagliaferri/"
     },
     {
-      "name": "Simone Rock",
-      "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/simone-de-laura.jpg",
-      "contentURL": "https://www.radioelettrica.it/members/simone-de-laura/"
-    },
-    {
       "name": "Gustavo Tagliaferri",
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gustavo-tagliaferri.jpg",
@@ -798,12 +780,6 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/Federica-Baglioni.jpg",
       "contentURL": "https://www.radioelettrica.it/members/federica-baglioni/"
-    },
-    {
-      "name": "Alex Sabetti",
-      "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/alex-sabetti.jpg",
-      "contentURL": "https://www.radioelettrica.it/members/alex-sabetti/"
     },
     {
       "name": "Stefano Strina",
@@ -888,6 +864,12 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/raffaella-ria.png",
       "contentURL": "https://www.radioelettrica.it/members/raffaella-ria/"
+    },
+    {
+      "name": "Antonio Masi",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/antonio-masi.png",
+      "contentURL": "https://www.radioelettrica.it/members/antonio-masi/"
     },
     {
       "name": "Stax",
