@@ -165,11 +165,11 @@
         "weekday": 3
       },
       {
-        "name": "Up To Eleven",
-        "speaker": "Stax",
+        "name": "Wanderlust",
+        "speaker": "Jimbo",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/stax.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
         "weekday": 3
       },
       {
@@ -223,11 +223,11 @@
         "weekday": 4
       },
       {
-        "name": "Wanderlust",
-        "speaker": "Jimbo",
+        "name": "Up To Eleven",
+        "speaker": "Stax",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jimbo.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/stax.png",
         "weekday": 4
       },
       {
@@ -421,11 +421,11 @@
         "weekday": 7
       },
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Italia in groove",
+        "speaker": "Sly",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
         "weekday": 7
       }
     ]
