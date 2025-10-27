@@ -252,14 +252,14 @@
         "name": "Caffè sospeso",
         "speaker": "Giampiero Wallnofer",
         "startTime": "09:00",
-        "endTime": "11:59",
+        "endTime": "10:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/giampiero-wallnofer.jpg",
         "weekday": 5
       },
       {
         "name": "The Summer of Love",
         "speaker": "Marco Cavalieri",
-        "startTime": "12:00",
+        "startTime": "11:00",
         "endTime": "14:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
         "weekday": 5
