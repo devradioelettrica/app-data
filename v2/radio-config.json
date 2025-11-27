@@ -377,7 +377,7 @@
         "speaker": "Alternanza: Raffaella Ria / Rossella Esse",
         "startTime": "09:00",
         "endTime": "11:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-domenica.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-raffaella-rossella.png",
         "weekday": 7
       },
       {
@@ -568,6 +568,18 @@
       "speaker": "Antonio Masi",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/antonio-masi.png",
       "contentURL": "https://www.radioelettrica.it/shows/antonio-masi-alternativo-moderno/"
+    },
+    {
+      "name": "Italia in groove",
+      "speaker": "Sly",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
+      "contentURL": "https://www.radioelettrica.it/shows/sly-italia-in-groove/"
+    },
+    {
+      "name": "Family Groove",
+      "speaker": "Nicola Catalano",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
+      "contentURL": "https://www.radioelettrica.it/shows/nicola-catalano-family-groove/"
     },
     {
       "name": "Trend Topics",
