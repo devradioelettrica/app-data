@@ -207,11 +207,11 @@
         "weekday": 4
       },
       {
-        "name": "Il Giardino delle Delizie",
-        "speaker": "Rossella Esse",
+        "name": "Goodbye 20th Century",
+        "speaker": "Manuel Nash",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/rossella-esse.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/manuel.png",
         "weekday": 4
       },
       {
@@ -355,11 +355,11 @@
         "weekday": 6
       },
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Family Groove",
+        "speaker": "Nicola Catalano",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
         "weekday": 6
       }
     ],
@@ -373,8 +373,8 @@
         "weekday": 7
       },
       {
-        "name": "We can work it out / Goodbye 20th Century",
-        "speaker": "Alternanza: Raffaella Ria / Manuel Nash",
+        "name": "We can work it out / Il Giardino delle Delizie",
+        "speaker": "Alternanza: Raffaella Ria / Rossella Esse",
         "startTime": "09:00",
         "endTime": "11:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-domenica.png",
@@ -806,12 +806,6 @@
       "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
     },
     {
-      "name": "Greta e Fiorenza",
-      "desc": "Cantante, compositrice, autrice e ricercatrice in ambito musicale",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gpills.jpg",
-      "contentURL": "https://www.radioelettrica.it/members/greta-panettieri-e-fiorenza-gherardi-de-candei/"
-    },
-    {
       "name": "Ubik",
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/ubik.jpeg",
@@ -888,6 +882,18 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/francesco-di-pietro.png",
       "contentURL": "https://www.radioelettrica.it/members/francesco-di-pietro/"
+    },
+    {
+      "name": "Sly",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/sly.png",
+      "contentURL": "https://www.radioelettrica.it/members/sly/"
+    },
+    {
+      "name": "Nicola Catalano",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/nicola-catalano.png",
+      "contentURL": "https://www.radioelettrica.it/members/nicola-catalano/"
     }
   ],
   "shopItems": [
