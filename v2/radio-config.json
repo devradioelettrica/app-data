@@ -141,11 +141,11 @@
         "weekday": 3
       },
       {
-        "name": "Allenamento al buonumore / Grazie per l’immenso contributo nel corso di queste ore",
-        "speaker": "Alternanza: Agnese Valle & Gustavo Tagliaferri",
+        "name": "Allenamento al Buonumore",
+        "speaker": "Agnese Valle",
         "startTime": "12:00",
         "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-agnese-gustavo.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/agnese-valle.jpg",
         "weekday": 3
       },
       {
@@ -207,11 +207,11 @@
         "weekday": 4
       },
       {
-        "name": "Goodbye 20th Century",
-        "speaker": "Manuel Nash",
+        "name": "Grazie per l’immenso contributo nel corso di queste ore",
+        "speaker": "Gustavo Tagliaferri",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/manuel.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/gustavo-tagliaferri.jpg",
         "weekday": 4
       },
       {
