@@ -252,14 +252,14 @@
         "name": "Caffè sospeso",
         "speaker": "Giampiero Wallnofer",
         "startTime": "09:00",
-        "endTime": "10:59",
+        "endTime": "11:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/giampiero-wallnofer.jpg",
         "weekday": 5
       },
       {
         "name": "The Summer of Love",
         "speaker": "Marco Cavalieri",
-        "startTime": "11:00",
+        "startTime": "12:00",
         "endTime": "14:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-cavalieri.jpg",
         "weekday": 5
@@ -746,12 +746,6 @@
       "contentURL": "https://www.radioelettrica.it/members/jimbo/"
     },
     {
-      "name": "Marta Squicciarini",
-      "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/marta-giramondo.jpg",
-      "contentURL": "https://www.radioelettrica.it/members/marta-squicciarini/"
-    },
-    {
       "name": "Marco del Vecchio",
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/marco-del-vecchio.jpeg",
@@ -913,13 +907,13 @@
       "name": "Abbigliamento",
       "localizedKey": "home_shop_clothing",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/clothing.jpg",
-      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/abbigliamento"
+      "contentURL": "https://www.radioelettrica.it/negozio/"
     },
     {
       "name": "Accessori",
       "localizedKey": "home_shop_accessories",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shop/accesories.jpg",
-      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/gadget"
+      "contentURL": "https://www.radioelettrica.it/categoria-prodotto/loopyful-design-x-radio-elettrica/"
     },
     {
       "name": "Eventi",
