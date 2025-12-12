@@ -13,12 +13,6 @@
             "order": 10
         },
         {
-            "code": "TELEGRAM",
-            "name": "Telegram",
-            "image": "logo_telegram",
-            "order": 20
-        },
-        {
             "code": "WA",
             "name": "WhatsApp",
             "image": "logo_whatsapp",
