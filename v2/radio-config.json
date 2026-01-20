@@ -1,3 +1,4 @@
+
 {
   "station": {
     "name": "Radio Elettrica",
@@ -323,11 +324,11 @@
         "weekday": 6
       },
       {
-        "name": "Magu e l’ombra del vecchio",
-        "speaker": "Mario Tagliaferri",
+        "name": "Moonage Dreamer",
+        "speaker": "Daniele Massimi",
         "startTime": "15:00",
         "endTime": "17:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Daniele_Massimi.jpg",
         "weekday": 6
       },
       {
@@ -546,12 +547,6 @@
       "contentURL": "https://www.radioelettrica.it/shows/jazztrain-francesco-sciarretta/"
     },
     {
-      "name": "MaGu e l'ombra del vecchio",
-      "speaker": "Mario Tagliaferri",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/mario-tagliaferri.jpg",
-      "contentURL": "https://www.radioelettrica.it/shows/mario-tagliaferri/"
-    },
-    {
       "name": "Parallel Lines",
       "speaker": "Giuseppe Bellobuono",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Giuseppe-Bellobuono.jpg",
@@ -580,6 +575,12 @@
       "speaker": "Nicola Catalano",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
       "contentURL": "https://www.radioelettrica.it/shows/nicola-catalano-family-groove/"
+    },
+    {
+      "name": "Moonage Dreamer",
+      "speaker": "Daniele Massimi",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Daniele_Massimi.jpg",
+      "contentURL": "https://www.radioelettrica.it/shows/daniele-massimi-moonage-daydream"
     },
     {
       "name": "Trend Topics",
@@ -900,6 +901,12 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/nicola-catalano.png",
       "contentURL": "https://www.radioelettrica.it/members/nicola-catalano/"
+    },
+    {
+      "name": "Daniele Massimi",
+      "desc": "",
+      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/Daniele_Massimi.jpg",
+      "contentURL": "https://www.radioelettrica.it/members/daniele-massimi/"
     }
   ],
   "shopItems": [
