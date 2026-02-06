@@ -1,4 +1,3 @@
-
 {
   "station": {
     "name": "Radio Elettrica",
@@ -282,11 +281,11 @@
         "weekday": 5
       },
       {
-        "name": "Korolev / La Signora Omicidi",
-        "speaker": "Alternanza: Francesco Di Pietro / Anna Mancini",
+        "name": "Korolev / Goodbye 20th Century",
+        "speaker": "Alternanza: Francesco Di Pietro / Manuel Nash",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-venerdi.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-dipietro-nash.png",
         "weekday": 5
       },
       {
@@ -765,12 +764,6 @@
       "contentURL": "https://www.radioelettrica.it/members/agnese-valle/"
     },
     {
-      "name": "Mario Tagliaferri",
-      "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/mario-tagliaferri.jpg",
-      "contentURL": "https://www.radioelettrica.it/members/mario-tagliaferri/"
-    },
-    {
       "name": "Gustavo Tagliaferri",
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gustavo-tagliaferri.jpg",
@@ -847,12 +840,6 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/sergio-ruffini.png",
       "contentURL": "https://www.radioelettrica.it/members/sergio-ruffini/"
-    },
-    {
-      "name": "Anna Mancini",
-      "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/anna-mancini.png",
-      "contentURL": "https://www.radioelettrica.it/members/anna-mancini/"
     },
     {
       "name": "Francesca 'LaCama' Camatari",
