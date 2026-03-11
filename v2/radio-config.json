@@ -9,11 +9,11 @@
   "planning": {
     "1": [
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Notte degli Oscar 2026",
+        "speaker": "Maura, Flavia e Giovanni",
         "startTime": "00:00",
-        "endTime": "08:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "endTime": "03:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/oscars.png",
         "weekday": 1
       },
       {
