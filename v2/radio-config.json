@@ -49,11 +49,11 @@
         "weekday": 1
       },
       {
-        "name": "Take Time / Bufalo Bill",
-        "speaker": "Alternanza: Sergio Ruffini / Jonathan Giustini",
+        "name": "Take Time",
+        "speaker": "Sergio Ruffini",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-lunedi.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sergio-ruffini.png",
         "weekday": 1
       },
       {
@@ -506,12 +506,6 @@
       "contentURL": "https://www.radioelettrica.it/shows/giramondo-marta-squicciarini/"
     },
     {
-      "name": "Non so rispondere",
-      "speaker": "Jonathan Giustini",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/jonathan-giustini.jpg",
-      "contentURL": "https://www.radioelettrica.it/shows/bufalo-bill-jonathan-giustini/"
-    },
-    {
       "name": "Peace and Noise",
       "speaker": "Stefano Strina",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
@@ -722,12 +716,6 @@
       "desc": "",
       "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/gabriele-niola.jpg",
       "contentURL": "https://www.radioelettrica.it/members/gabriele-niola/"
-    },
-    {
-      "name": "Jonathan Giustini",
-      "desc": "",
-      "imageURL": "https://devradioelettrica.github.io/app-data/images/speakers/jonathan-giustini.jpg",
-      "contentURL": "https://www.radioelettrica.it/members/jonathan-giustini/"
     },
     {
       "name": "Rossella Esse",
