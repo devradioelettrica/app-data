@@ -49,11 +49,11 @@
         "weekday": 1
       },
       {
-        "name": "Take Time",
-        "speaker": "Sergio Ruffini",
+        "name": "Take Time / Bufalo Bill",
+        "speaker": "Alternanza: Sergio Ruffini / Jonathan Giustini",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sergio-ruffini.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-lunedi.png",
         "weekday": 1
       },
       {
@@ -355,11 +355,11 @@
         "weekday": 6
       },
       {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
+        "name": "Family Groove",
+        "speaker": "Nicola Catalano",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
         "weekday": 6
       }
     ],
@@ -381,59 +381,51 @@
         "weekday": 7
       },
       {
-        "name": "Eclettica",
-        "speaker": "Milù",
+        "name": "Isterika",
+        "speaker": "Sira F. De Vanna",
         "startTime": "12:00",
         "endTime": "14:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sira-f-de-vanna.jpg",
+        "weekday": 7
+      },
+      {
+        "name": "Eclettica",
+        "speaker": "Milù",
+        "startTime": "15:00",
+        "endTime": "17:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Milu.png",
         "weekday": 7
       },
       {
         "name": "To Tape",
         "speaker": "Renato Failla",
-        "startTime": "15:00",
-        "endTime": "16:59",
+        "startTime": "18:00",
+        "endTime": "19:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.png",
         "weekday": 7
       },
       {
         "name": "Oltre il giardino",
         "speaker": "Marco del Vecchio",
-        "startTime": "17:00",
-        "endTime": "18:59",
+        "startTime": "20:00",
+        "endTime": "21:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-del-vecchio.jpeg",
         "weekday": 7
       },
       {
         "name": "Jazztrain",
         "speaker": "Francesco Sciarretta",
-        "startTime": "19:00",
-        "endTime": "19:59",
+        "startTime": "22:00",
+        "endTime": "22:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
         "weekday": 7
       },
       {
         "name": "Italia in groove",
         "speaker": "Sly",
-        "startTime": "20:00",
-        "endTime": "21:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
-        "weekday": 7
-      },
-      {
-        "name": "Family Groove",
-        "speaker": "Nicola Catalano",
-        "startTime": "22:00",
-        "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
-        "weekday": 7
-      },
-      {
-        "name": "Replay",
-        "speaker": "Radio Elettrica",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
         "weekday": 7
       }
     ]
