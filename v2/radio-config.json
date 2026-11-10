@@ -347,11 +347,11 @@
         "weekday": 6
       },
       {
-        "name": "Elettrica Classica",
-        "speaker": "Francesco Sciarretta",
+        "name": "Peace and Noise",
+        "speaker": "Stefano Strina",
         "startTime": "22:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
         "weekday": 6
       },
       {
@@ -416,24 +416,16 @@
         "name": "Italia in groove",
         "speaker": "Sly",
         "startTime": "20:00",
-        "endTime": "20:59",
+        "endTime": "21:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
         "weekday": 7
       },
       {
         "name": "Family Groove",
         "speaker": "Nicola Catalano",
-        "startTime": "21:00",
-        "endTime": "21:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
-        "weekday": 7
-      },
-      {
-        "name": "Peace and Noise",
-        "speaker": "Stefano Strina",
         "startTime": "22:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
         "weekday": 7
       },
       {
