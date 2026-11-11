@@ -49,11 +49,11 @@
         "weekday": 1
       },
       {
-        "name": "Take Time / Bufalo Bill",
-        "speaker": "Alternanza: Sergio Ruffini / Jonathan Giustini",
+        "name": "Take Time",
+        "speaker": "Sergio Ruffini",
         "startTime": "21:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/alt-lunedi.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sergio-ruffini.png",
         "weekday": 1
       },
       {
@@ -347,19 +347,19 @@
         "weekday": 6
       },
       {
-        "name": "Peace and Noise",
-        "speaker": "Stefano Strina",
+        "name": "Elettrica Classica",
+        "speaker": "Francesco Sciarretta",
         "startTime": "22:00",
         "endTime": "22:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
         "weekday": 6
       },
       {
-        "name": "Family Groove",
-        "speaker": "Nicola Catalano",
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 6
       }
     ],
@@ -381,51 +381,67 @@
         "weekday": 7
       },
       {
-        "name": "Isterika",
-        "speaker": "Sira F. De Vanna",
-        "startTime": "12:00",
-        "endTime": "14:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sira-f-de-vanna.jpg",
-        "weekday": 7
-      },
-      {
         "name": "Eclettica",
         "speaker": "Milù",
-        "startTime": "15:00",
-        "endTime": "17:59",
+        "startTime": "12:00",
+        "endTime": "14:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/Milu.png",
         "weekday": 7
       },
       {
         "name": "To Tape",
         "speaker": "Renato Failla",
-        "startTime": "18:00",
-        "endTime": "19:59",
+        "startTime": "15:00",
+        "endTime": "16:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/to-tape.png",
         "weekday": 7
       },
       {
         "name": "Oltre il giardino",
         "speaker": "Marco del Vecchio",
-        "startTime": "20:00",
-        "endTime": "21:59",
+        "startTime": "17:00",
+        "endTime": "18:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/marco-del-vecchio.jpeg",
         "weekday": 7
       },
       {
         "name": "Jazztrain",
         "speaker": "Francesco Sciarretta",
-        "startTime": "22:00",
-        "endTime": "22:59",
+        "startTime": "19:00",
+        "endTime": "19:59",
         "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sciarretta.jpeg",
         "weekday": 7
       },
       {
         "name": "Italia in groove",
         "speaker": "Sly",
+        "startTime": "20:00",
+        "endTime": "20:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
+        "weekday": 7
+      },
+      {
+        "name": "Family Groove",
+        "speaker": "Nicola Catalano",
+        "startTime": "21:00",
+        "endTime": "21:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/family-groove.png",
+        "weekday": 7
+      },
+      {
+        "name": "Peace and Noise",
+        "speaker": "Stefano Strina",
+        "startTime": "22:00",
+        "endTime": "22:59",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/stefano-strina.png",
+        "weekday": 7
+      },
+      {
+        "name": "Replay",
+        "speaker": "Radio Elettrica",
         "startTime": "23:00",
         "endTime": "23:59",
-        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/sly.png",
+        "imageURL": "https://devradioelettrica.github.io/app-data/images/shows/replay.jpg",
         "weekday": 7
       }
     ]
